@@ -1,7 +1,0 @@
-{
-	"credit": "By Limonchik_",
-	"parent": "minecraft:item/handheld",
-	"textures": {
-		"layer0": "item/super_glue"
-	}
-}
