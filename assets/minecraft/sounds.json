@@ -1,0 +1,38 @@
+{
+   "laser_shot": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "laser_gun_shot/laser_gun_shot1",
+                "stream": true
+            },
+			{
+                "name": "laser_gun_shot/laser_gun_shot2",
+                "stream": true
+            },
+			{
+                "name": "laser_gun_shot/laser_gun_shot3",
+                "stream": true
+            }]
+    },
+	   "bonus.superglue.stuck": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "bonuses/super_glue/stuck",
+                "stream": true
+            }]
+    },
+	   "music.castle": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "music.castle/music.castle.1",
+                "stream": false
+            },
+            {
+                "name": "music.castle/music.castle.2",
+                "stream": false
+            }]
+    }
+}

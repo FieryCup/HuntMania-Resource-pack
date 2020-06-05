@@ -1,0 +1,6 @@
+{
+  "parent": "",
+  "textures": {
+    "wall": "minecraft:block/prismarine"
+  }
+}

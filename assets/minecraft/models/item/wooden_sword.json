@@ -1,0 +1,9 @@
+{
+	"parent": "item/wooden_sword_model",
+	"textures": {
+		"layer0": "item/wooden_sword"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/training_sword"}
+	]
+}

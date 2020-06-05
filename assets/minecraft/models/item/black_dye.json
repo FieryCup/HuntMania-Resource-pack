@@ -1,0 +1,19 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/black_dye"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/battery"},
+		{"predicate": {"custom_model_data":2}, "model": "item/budy1"},
+		{"predicate": {"custom_model_data":3}, "model": "item/helmet"},
+		{"predicate": {"custom_model_data":4}, "model": "item/laser_shot"},
+		{"predicate": {"custom_model_data":5}, "model": "item/rusty_key"},
+		{"predicate": {"custom_model_data":6}, "model": "item/golden_key"},
+		{"predicate": {"custom_model_data":7}, "model": "item/limonchik"},
+		{"predicate": {"custom_model_data":8}, "model": "item/chubrel"},
+		{"predicate": {"custom_model_data":9}, "model": "item/berrybiue"},
+		{"predicate": {"custom_model_data":10}, "model": "item/diving_helmet"},
+		{"predicate": {"custom_model_data":11}, "model": "item/admin_key"}
+	]
+}
