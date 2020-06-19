@@ -1,1 +1,1 @@
-Pryatki Resource pack version 1.16-pre2_8.1
+Pryatki Resource pack version 1.16-rel_8.2
