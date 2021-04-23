@@ -1,0 +1,9 @@
+{
+	"parent": "item/cooked_beef_model",
+	"textures": {
+		"layer0": "item/cooked_beef"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/bloody_cooked_beef"}
+	]
+}

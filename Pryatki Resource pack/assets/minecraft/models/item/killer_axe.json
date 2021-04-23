@@ -1,0 +1,7 @@
+{
+	"credit": "By Limonchik_",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/killer_axe"
+	}
+}

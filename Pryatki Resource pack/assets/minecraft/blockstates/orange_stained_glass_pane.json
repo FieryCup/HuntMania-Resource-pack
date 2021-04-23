@@ -1,0 +1,21 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "block/lab_equipment1"
+			},
+			{
+				"model": "block/lab_equipment2"
+			},
+			{
+				"model": "block/lab_equipment3"
+			},
+			{
+				"model": "block/lab_equipment4"
+			},
+			{
+				"model": "block/lab_equipment5"
+			}
+		]
+	}
+}

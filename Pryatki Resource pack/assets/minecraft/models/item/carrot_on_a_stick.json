@@ -1,0 +1,16 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/carrot_on_a_stick"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/laser_gun1"},
+		{"predicate": {"custom_model_data":2}, "model": "item/laser_gun2"},
+		{"predicate": {"custom_model_data":3}, "model": "item/laser_gun3"},
+		{"predicate": {"custom_model_data":4}, "model": "item/laser_gun4"},
+		{"predicate": {"custom_model_data":5}, "model": "item/laser_gun5"},
+		{"predicate": {"custom_model_data":37}, "model": "item/armor_stand_wand"},
+		{"predicate": {"custom_model_data":42}, "model": "item/magic_stick"}
+	]
+}
