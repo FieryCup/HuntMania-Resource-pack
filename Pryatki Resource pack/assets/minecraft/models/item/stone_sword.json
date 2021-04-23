@@ -4,6 +4,6 @@
 		"layer0": "item/wooden_sword"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":42}, "model": "item/chest_wand"}
+		{"predicate": {"custom_model_data":42}, "model": "item/armor_stand_wand"}
 	]
 }
