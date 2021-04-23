@@ -1,7 +1,7 @@
 {
-	"parent": "item/wooden_sword_model",
+	"parent": "item/stone_sword_model",
 	"textures": {
-		"layer0": "item/wooden_sword"
+		"layer0": "item/stone_sword"
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data":42}, "model": "item/armor_stand_wand"}
