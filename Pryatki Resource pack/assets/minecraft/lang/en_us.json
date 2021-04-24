@@ -11,7 +11,13 @@
   "item.battery": "Battery",
   "item.aqualung": "Aqualung",
   
+
   "place.wand": "Place wand",
+  "place.bonus": "Bonus spawn",
+  "place.hunter": "Hunter spawn",
+  "place.survivor": "Survivor spawn",
+  "place.prison": "Prison place",
+  "place.mob": "Mob spawn",
   
   "container.wand": "Container wand",
   "container.empty": "Empty container",
@@ -20,6 +26,7 @@
   "container.tricky": "Tricky container",
   "container.hunter": "Container of Hunter",
   "container.survivor": "Container of Survivor",
+  
   
   "item.pebble": "Pebble",
   "item.gum": "Dried gum",
