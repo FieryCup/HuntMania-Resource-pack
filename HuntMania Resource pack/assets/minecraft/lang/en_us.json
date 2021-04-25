@@ -15,6 +15,13 @@
   "skin.Chubrel": "",
   "skin.OtterOne": "",
 
+  
+  "prefix.survivor": "[Survivor] ",
+  "prefix.hunter": "[Hunter] ",
+  "prefix.spawn": "[Player] ",
+  "prefix.found": "[Found] ",
+  "prefix.spectator": " ",
+
   "place.wand": "Place wand",
   "place.bonus": "Bonus spawn",
   "place.hunter": "Hunter spawn",
@@ -92,10 +99,6 @@
   
   "item.bonus.new": "Bonus",
   "item.bonus.superglue": "Super glue",
-  "prefix.hider": "[Survivor] ",
-  "prefix.seeker": "[Seeker] ",
-  "prefix.found": "[Found] ",
-  "prefix.spawn": "[Player] ",
   "entity.nemo": "Nemo",
   
   "entity.closed_chest": "Closed chest",

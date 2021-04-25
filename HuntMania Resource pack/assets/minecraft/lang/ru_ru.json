@@ -12,6 +12,11 @@
   "item.aqualung": "Акваланг",
   
 
+  "prefix.survivor": "[Выживший] ",
+  "prefix.hunter": "[Охотник] ",
+  "prefix.spawn": "[Игрок] ",
+  "prefix.found": "[Найден] ",
+
   "place.wand": "Жезл мест",
   "place.bonus": "Спавн бонусов",
   "place.hunter": "Спавн охотников",
@@ -91,10 +96,6 @@
  
   "item.bonus.new": "Бонус",
   "item.bonus.superglue": "Суперклей",
-  "prefix.hider": "[Выживший] ",
-  "prefix.seeker": "[Охотник] ",
-  "prefix.found": "[Найден] ",
-  "prefix.spawn": "[Игрок] ",
   "entity.nemo": "Немо",
   
   "entity.closed_chest": "Закрытый сундук",

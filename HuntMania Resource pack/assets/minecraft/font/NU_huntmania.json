@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/Limonchik_.png",
+            "file": "minecraft:font/prefix/spectator.png",
             "ascent": 7,
             "height": 8,
             "chars": [""]
