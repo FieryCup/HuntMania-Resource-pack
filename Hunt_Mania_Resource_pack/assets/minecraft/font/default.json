@@ -3,13 +3,13 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/prefix/spectator.png",
-            "ascent": 9,
-            "height": 12,
+            "ascent": 7,
+            "height": 8,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/Chubrel.png",
+            "file": "minecraft:font/prefix/hunter.png",
             "ascent": 7,
             "height": 8,
             "chars": [""]

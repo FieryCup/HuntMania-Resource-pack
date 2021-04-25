@@ -17,10 +17,10 @@
 
   
   "prefix.survivor": "[Survivor] ",
-  "prefix.hunter": "[Hunter] ",
   "prefix.spawn": "[Player] ",
   "prefix.found": "[Found] ",
   "prefix.spectator": " ",
+  "prefix.hunter": " ",
 
   "place.wand": "Place wand",
   "place.bonus": "Bonus spawn",
