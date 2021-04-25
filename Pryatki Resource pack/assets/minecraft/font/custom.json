@@ -2,38 +2,24 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/firework_rocket.png",
-            "ascent": 9,
-            "height": 13,
-            "chars": ["╜"]
+            "file": "minecraft:font/Limonchik_.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/blooded_key.png",
-            "ascent": 9,
-            "height": 13,
-            "chars": ["╛"]
+            "file": "minecraft:font/Chubrel.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/golden_key.png",
-            "ascent": 9,
-            "height": 13,
-            "chars": ["┐"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/diving_helmet.png",
-            "ascent": 9,
-            "height": 13,
-            "chars": ["└"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/armor_stand_wand.png",
-            "ascent": 9,
-            "height": 13,
-            "chars": ["┴"]
+            "file": "minecraft:font/OtterOne.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [""]
         }
     ]
 }
