@@ -16,10 +16,24 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/OtterOne.png",
+            "file": "minecraft:font/prefix/survivor.png",
             "ascent": 7,
             "height": 8,
             "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/prefix/found.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/prefix/spawn.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [""]
         }
     ]
 }

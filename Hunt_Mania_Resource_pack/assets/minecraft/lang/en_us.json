@@ -10,17 +10,13 @@
   "item.lasergun": "Laser gun",
   "item.battery": "Battery",
   "item.aqualung": "Aqualung",
-  
-  "skin.Limonchik_": "",
-  "skin.Chubrel": "",
-  "skin.OtterOne": "",
 
   
-  "prefix.survivor": "[Survivor] ",
-  "prefix.spawn": "[Player] ",
-  "prefix.found": "[Found] ",
+  "prefix.spawn": " ",
+  "prefix.found": " ",
   "prefix.spectator": " ",
   "prefix.hunter": " ",
+  "prefix.survivor": " ",
 
   "place.wand": "Place wand",
   "place.bonus": "Bonus spawn",
