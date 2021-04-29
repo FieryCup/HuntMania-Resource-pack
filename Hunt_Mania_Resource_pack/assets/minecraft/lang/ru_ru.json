@@ -12,7 +12,17 @@
   "item.aqualung": "Акваланг",
   
 
+  "locked.door": "Дверь заперта!",
+  "locked.trapdoor": "Люк заперт!",
+
+  "game.first_hunter_coming": "Охотник скоро будет освобождён!",
+  "game.first_hunters_coming": "Охотники скоро будут освобождены!",
+
+
   "place.wand": "Жезл мест",
+  "place.wand.message": "Ты получил жезл мест!",
+  "place.show.on": "Места были показаны!",
+  "place.show.off": "Места были скрыты!",
   "place.bonus": "Спавн бонусов",
   "place.hunter": "Спавн охотников",
   "place.survivor": "Спавн выживших",
@@ -20,6 +30,9 @@
   "place.mob": "Спавн мобов",
   
   "container.wand": "Жезл контейнеров",
+  "container.wand.message": "Ты получил жезл контейнеров!",
+  "container.show.on": "Контейнеры были показаны!",
+  "container.show.off": "Контейнеры были скрыты!",
   "container.empty": "Пустой контейнер",
   "container.closed": "Закрытый контейнер",
   "container.simple": "Обычный контейнер",
