@@ -18,7 +18,20 @@
   "prefix.hunter": " ",
   "prefix.survivor": " ",
 
+  "test.huntmania": "It's test.",
+  
+
+  "locked.door": "Door locked!",
+  "locked.trapdoor": "Trapdoor locked!",
+
+  "game.first_hunter_coming": "Hunter will be released soon!",
+  "game.first_hunters_coming": "Hunters will be released soon!",
+
+
   "place.wand": "Place wand",
+  "place.wand.message": "You got place wand!",
+  "place.show.on": "Places was shown!",
+  "place.show.off": "Places was hidden!",
   "place.bonus": "Bonus spawn",
   "place.hunter": "Hunter spawn",
   "place.survivor": "Survivor spawn",
@@ -26,6 +39,9 @@
   "place.mob": "Mob spawn",
   
   "container.wand": "Container wand",
+  "container.wand.message": "You got container wand!",
+  "container.show.on": "Containers was shown!",
+  "container.show.off": "Containers was hidden!",
   "container.empty": "Empty container",
   "container.closed": "Closed container",
   "container.simple": "Simple container",
