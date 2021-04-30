@@ -23,16 +23,12 @@
                 "stream": true
             }]
     },
-	   "music.castle": {
-        "category": "record",
-        "sounds": [
-            {
-                "name": "music.castle/music.castle.1",
-                "stream": false
-            },
-            {
-                "name": "music.castle/music.castle.2",
-                "stream": false
-            }]
-    }
+    "heartbeat": {
+     "category": "master",
+     "sounds": [
+         {
+             "name": "heartbeat/heartbeat",
+             "stream": true
+         }]
+ }
 }
