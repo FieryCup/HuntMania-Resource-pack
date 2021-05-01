@@ -2,16 +2,8 @@
   "language.name": "English",
   "language.region": "United States",
   "language.code": "en_us",
-  "item.boots_of_speed": "Boots of speed",
-  "item.firework": "Firework",
-  "item.key.hunter": "Rusty key",
-  "item.key.hider": "Golden key",
-  "item.key.admin": "Admin Key",
-  "item.lasergun": "Laser gun",
-  "item.battery": "Battery",
-  "item.aqualung": "Aqualung",
 
-  
+
   "prefix.spawn": " ",
   "prefix.found": " ",
   "prefix.spectator": " ",
@@ -27,6 +19,27 @@
   "game.first_hunter_coming": "Hunter will be released soon!",
   "game.first_hunters_coming": "Hunters will be released soon!",
 
+  "hunter": "Hunter ",
+  "hunter.start": " was released!",
+  "hunter.start.title": "Kill them all!",
+  "hunter.start.subtitle": "",
+  "survivor.start.title": "Pray for salvation!",
+  "survivor.start.subtitle": "",
+  "hunter.win.title": "Hunters win!",
+  "hunter.win.subtitle": "",
+  "survivor.lose.title": "Survivors lost!",
+  "survivor.lose.subtitle": "",
+  "hunter.win": "Hunters win!",
+  "survivor.win.title": "Survivors win!",
+  "survivor.win.subtitle": "",
+  "hunter.lose.title": "Hunters lost!",
+  "hunter.lose.subtitle": "",
+  "survivor.win": "Survivors win!",
+  "huntmania.game.end": "Game finished!",
+  "survivor.killed": " was killed!",
+  "survivor.end_life": " parted with his life!",
+  "survivor.lives.no_more": "No extra lives",
+  "survivor.lives.extra": "Extra lives: ",
 
   "place.wand": "Place wand",
   "place.wand.message": "You got place wand!",
@@ -49,7 +62,36 @@
   "container.hunter": "Container of Hunter",
   "container.survivor": "Container of Survivor",
   
+  "item.hunter.axe": "Butcher's axe",
+  "item.hunter.bow": "Hunter bow",
+  "item.hunter.steak": "Bloody steak",
+  "item.hunter.helmet": "Bloody helmet",
+  "item.hunter.chestplate": "Bloody chestplate",
+  "item.hunter.leggings": "Bloody leggings",
+  "item.hunter.boots": "Bloody boots",
   
+  "item.survivor.helmet": "Battered helmet",
+  "item.survivor.chestplate": "Battered chestplate",
+  "item.survivor.leggings": "Battered leggings",
+  "item.survivor.boots": "Battered boots",
+  
+  "prohibited.bed": "You can't use the bed",
+
+  
+  
+
+
+  "_comment": "Old translates",
+
+  "item.boots_of_speed": "Boots of speed",
+  "item.firework": "Firework",
+  "item.key.hunter": "Rusty key",
+  "item.key.hider": "Golden key",
+  "item.key.admin": "Admin Key",
+  "item.lasergun": "Laser gun",
+  "item.battery": "Battery",
+  "item.aqualung": "Aqualung",
+
   "item.pebble": "Pebble",
   "item.gum": "Dried gum",
   "item.rose": "Dried rose",
@@ -59,13 +101,6 @@
   "item.shell": "Shell",
   
   "item.lumberjack_axe": "Lumberjack axe",
-  "item.hunter_axe": "Butcher's axe",
-  "item.hunter_bow": "Hunter bow",
-  "item.bloody_steak": "Bloody steak",
-  "item.hunter_helmet": "Bloody helmet",
-  "item.hunter_chestplate": "Bloody chestplate",
-  "item.hunter_leggings": "Bloody leggings",
-  "item.hunter_boots": "Bloody boots",
   "item.hider_helmet": "Battered helmet",
   "item.hider_chestplate": "Battered chestplate",
   "item.hider_leggings": "Battered leggings",

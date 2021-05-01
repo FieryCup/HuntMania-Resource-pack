@@ -2,17 +2,9 @@
   "language.name": "Русский",
   "language.region": "Россия",
   "language.code": "ru_ru",
-  "item.boots_of_speed": "Сапоги-скороходы",
-  "item.firework": "Фейерверк",
-  "item.key.hunter": "Ржавый ключ",
-  "item.key.hider": "Золотой ключ",
-  "item.key.admin": "Ключ админа",
-  "item.lasergun": "Лазерная пушка",
-  "item.battery": "Батарейка",
-  "item.aqualung": "Акваланг",
+
 
   "test.huntmania": "Это тест.",
-  
 
   "locked.door": "Дверь заперта!",
   "locked.trapdoor": "Люк заперт!",
@@ -20,6 +12,27 @@
   "game.first_hunter_coming": "Охотник скоро будет освобождён!",
   "game.first_hunters_coming": "Охотники скоро будут освобождены!",
 
+  "hunter": "Охотник ",
+  "hunter.start": " вышел на свободу!",
+  "hunter.start.title": "Убей их всех!",
+  "hunter.start.subtitle": "",
+  "survivor.start.title": "Молись о спасении!",
+  "survivor.start.subtitle": "",
+  "hunter.win.title": "Охотники победили!",
+  "hunter.win.subtitle": "",
+  "survivor.lose.title": "Выжившие проиграли!",
+  "survivor.lose.subtitle": "",
+  "hunter.win": "Охотники победили!",
+  "survivor.win.title": "Выжившие победили!",
+  "survivor.win.subtitle": "",
+  "hunter.lose.title": "Охотники проиграли!",
+  "hunter.lose.subtitle": "",
+  "survivor.win": "Выжившие победили!",
+  "huntmania.game.end": "Игра завершена!",
+  "survivor.killed": " был убит!",
+  "survivor.end_life": " расстался со своей жизнью!",
+  "survivor.lives.no_more": "Нет дополнительных жизней",
+  "survivor.lives.extra": "Дополнительные жизни: ",
 
   "place.wand": "Жезл мест",
   "place.wand.message": "Ты получил жезл мест!",
@@ -42,6 +55,35 @@
   "container.hunter": "Контейнер охотника",
   "container.survivor": "Контейнер выжившего",
   
+  "item.hunter.axe": "Топор мясника",
+  "item.hunter.bow": "Охотничий лук",
+  "item.hunter.steak": "Кровавый стейк",
+  "item.hunter.helmet": "Кровавый шлем",
+  "item.hunter.chestplate": "Кровавый нагрудник",
+  "item.hunter.leggings": "Кровавые штаны",
+  "item.hunter.boots": "Кровавые ботинки",
+  
+  "item.survivor.helmet": "Потрёпанная шапка",
+  "item.survivor.chestplate": "Потрёпанная куртка",
+  "item.survivor.leggings": "Потрёпанные штаны",
+  "item.survivor.boots": "Потрёпанные ботинки",
+  
+  "prohibited.bed": "Вы не можете пользоваться кроватью",
+
+
+
+  
+
+  "_comment": "Старые переводы",
+
+  "item.boots_of_speed": "Сапоги-скороходы",
+  "item.firework": "Фейерверк",
+  "item.key.hunter": "Ржавый ключ",
+  "item.key.hider": "Золотой ключ",
+  "item.key.admin": "Ключ админа",
+  "item.lasergun": "Лазерная пушка",
+  "item.battery": "Батарейка",
+  "item.aqualung": "Акваланг",
 
   "item.pebble": "Галька",
   "item.gum": "Засохшая жвачка",
@@ -52,17 +94,6 @@
   "item.shell": "Ракушка",
   
   "item.lumberjack_axe": "Топор лесоруба",
-  "item.hunter_axe": "Топор мясника",
-  "item.hunter_bow": "Охотничий лук",
-  "item.bloody_steak": "Кровавый стейк",
-  "item.hunter_helmet": "Кровавый шлем",
-  "item.hunter_chestplate": "Кровавый нагрудник",
-  "item.hunter_leggings": "Кровавые штаны",
-  "item.hunter_boots": "Кровавые ботинки",
-  "item.hider_helmet": "Потрёпанная шапка",
-  "item.hider_chestplate": "Потрёпанная куртка",
-  "item.hider_leggings": "Потрёпанные штаны",
-  "item.hider_boots": "Потрёпанные ботинки",
   "item.reinforced_helmet": "Укреплённый шлем",
   "item.reinforced_chestplate": "Укреплённый нагрудник",
   "item.reinforced_leggings": "Укреплённые штаны",
