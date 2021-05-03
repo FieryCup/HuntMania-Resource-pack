@@ -31,14 +31,14 @@
              "stream": true
          }]
     },
-    "block.wooden_pressure_plate.click_off": {
+    "planks.pressed": {
         "sounds": [
             {
                 "name": "planks/planks_pressed",
                 "stream": true
             }]
     },
-    "block.wooden_pressure_plate.click_on": {
+    "planks.pressed_out": {
         "sounds": [
             {
                 "name": "planks/planks_pressed_out",
