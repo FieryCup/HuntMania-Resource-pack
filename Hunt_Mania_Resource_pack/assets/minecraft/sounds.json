@@ -36,13 +36,15 @@
             {
                 "name": "planks/planks_pressed",
                 "stream": true
-            }]
+            }],
+        "subtitle": "subtitles.planks.pressed"
     },
     "planks.pressed_out": {
         "sounds": [
             {
                 "name": "planks/planks_pressed_out",
                 "stream": true
-            }]
+            }],
+        "subtitle": "subtitles.planks.pressed_out"
     }
 }

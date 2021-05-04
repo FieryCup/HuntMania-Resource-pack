@@ -12,12 +12,18 @@
 
   "test.huntmania": "It's test.",
   
+  "subtitles.planks.pressed": "Pressed planks",
+  "subtitles.planks.pressed_out": "Pressed out planks",
 
   "locked.door": "Door locked!",
   "locked.trapdoor": "Trapdoor locked!",
 
   "game.first_hunter_coming": "Hunter will be released soon!",
   "game.first_hunters_coming": "Hunters will be released soon!",
+
+  "lock.hunter": "Rusty key",
+  "lock.survivor": "Golden key",
+  "lock.admin": "Admin Key",
 
   "hunter": "Hunter ",
   "hunter.start": " was released!",
@@ -85,9 +91,6 @@
 
   "item.boots_of_speed": "Boots of speed",
   "item.firework": "Firework",
-  "item.key.hunter": "Rusty key",
-  "item.key.hider": "Golden key",
-  "item.key.admin": "Admin Key",
   "item.lasergun": "Laser gun",
   "item.battery": "Battery",
   "item.aqualung": "Aqualung",

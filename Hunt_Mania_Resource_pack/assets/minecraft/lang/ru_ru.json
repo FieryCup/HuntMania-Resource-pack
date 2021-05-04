@@ -5,12 +5,19 @@
 
 
   "test.huntmania": "Это тест.",
+  
+  "subtitles.planks.pressed": "Нажаты доски",
+  "subtitles.planks.pressed_out": "Отжаты доски",
 
   "locked.door": "Дверь заперта!",
   "locked.trapdoor": "Люк заперт!",
 
   "game.first_hunter_coming": "Охотник скоро будет освобождён!",
   "game.first_hunters_coming": "Охотники скоро будут освобождены!",
+  
+  "lock.hunter": "Ржавый ключ",
+  "lock.survivor": "Золотой ключ",
+  "lock.admin": "Ключ админа",
 
   "hunter": "Охотник ",
   "hunter.start": " вышел на свободу!",
@@ -78,9 +85,6 @@
 
   "item.boots_of_speed": "Сапоги-скороходы",
   "item.firework": "Фейерверк",
-  "item.key.hunter": "Ржавый ключ",
-  "item.key.hider": "Золотой ключ",
-  "item.key.admin": "Ключ админа",
   "item.lasergun": "Лазерная пушка",
   "item.battery": "Батарейка",
   "item.aqualung": "Акваланг",
