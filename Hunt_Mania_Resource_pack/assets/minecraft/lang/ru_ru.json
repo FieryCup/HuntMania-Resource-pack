@@ -6,8 +6,8 @@
 
   "test.huntmania": "Это тест.",
   
-  "subtitles.planks.pressed": "Нажаты доски",
-  "subtitles.planks.pressed_out": "Отжаты доски",
+  "subtitles.planks.pressed": "Доски прогнуты",
+  "subtitles.planks.pressed_out": "Доски выгнуты",
 
   "locked.door": "Дверь заперта!",
   "locked.trapdoor": "Люк заперт!",
@@ -61,6 +61,11 @@
   "container.tricky": "Спрятанный контейнер",
   "container.hunter": "Контейнер охотника",
   "container.survivor": "Контейнер выжившего",
+
+  "container.remove_redundant": "Удалено лишних контейнеров: ",
+  "container.register_all": "Зарегистрировано новых контейнеров: ",
+  "container.filled": "Заполнено контейнеров: ",
+  "container.refilled": "Некоторые контейнеры были перезаполнены!",
   
   "item.hunter.axe": "Топор мясника",
   "item.hunter.bow": "Охотничий лук",

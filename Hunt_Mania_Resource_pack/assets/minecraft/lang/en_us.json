@@ -67,6 +67,11 @@
   "container.tricky": "Tricky container",
   "container.hunter": "Container of Hunter",
   "container.survivor": "Container of Survivor",
+
+  "container.remove_redundant": "Removed redundant containers: ",
+  "container.register_all": "Registered new containers: ",
+  "container.filled":  "Filled containers: ",
+  "container.refilled": "Some containers were refilled!",
   
   "item.hunter.axe": "Butcher's axe",
   "item.hunter.bow": "Hunter bow",
