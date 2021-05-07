@@ -1,20 +1,20 @@
 {
 	"credit": "By Limonchik_",
 	"textures": {
-		"0": "item/lazer_gun",
-		"particle": "item/lazer_gun"
+		"0": "item/lazer_gun_charging",
+		"particle": "item/lazer_gun_charging"
 	},
 	"elements": [
 		{
 			"from": [6.5, 6.5, 6.5],
 			"to": [9.5, 9.5, 9.5],
 			"faces": {
-				"north": {"uv": [0.5, 3.5, 1, 4], "texture": "#0"},
-				"east": {"uv": [0.5, 3.5, 1, 4], "texture": "#0"},
-				"south": {"uv": [0.5, 3.5, 1, 4], "texture": "#0"},
-				"west": {"uv": [0.5, 3.5, 1, 4], "texture": "#0"},
-				"up": {"uv": [0.5, 3.5, 1, 4], "texture": "#0"},
-				"down": {"uv": [0.5, 3.5, 1, 4], "texture": "#0"}
+				"north": {"uv": [0, 0, 0.5, 0.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.5, 0.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.5, 0.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.5, 0.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.5, 0.5], "texture": "#0"},
+				"down": {"uv": [0, 0, 0.5, 0.5], "texture": "#0"}
 			}
 		}
 	],
