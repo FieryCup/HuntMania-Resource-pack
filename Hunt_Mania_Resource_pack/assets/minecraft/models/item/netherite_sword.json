@@ -5,11 +5,13 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/laser_gun0_empty"},
-		{"predicate": {"custom_model_data":2}, "model": "item/laser_gun0"},
-		{"predicate": {"custom_model_data":3}, "model": "item/laser_gun1"},
-		{"predicate": {"custom_model_data":4}, "model": "item/laser_gun2"},
-		{"predicate": {"custom_model_data":5}, "model": "item/laser_gun3"},
-		{"predicate": {"custom_model_data":6}, "model": "item/laser_gun4"}
+		{"predicate": {"custom_model_data":1}, "model": "item/laser_gun/laser_gun0_empty"},
+		{"predicate": {"custom_model_data":2}, "model": "item/laser_gun/laser_gun1"},
+		{"predicate": {"custom_model_data":3}, "model": "item/laser_gun/laser_gun2"},
+		{"predicate": {"custom_model_data":4}, "model": "item/laser_gun/laser_gun3"},
+		{"predicate": {"custom_model_data":5}, "model": "item/laser_gun/laser_gun4"},
+		{"predicate": {"custom_model_data":6}, "model": "item/laser_gun/laser_gun5"},
+		{"predicate": {"custom_model_data":7}, "model": "item/laser_gun/laser_gun6"},
+		{"predicate": {"custom_model_data":8}, "model": "item/laser_gun/laser_gun7"}
 	]
 }
