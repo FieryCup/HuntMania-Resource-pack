@@ -4,7 +4,6 @@
 		"layer0": "item/black_dye"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/battery"},
 		{"predicate": {"custom_model_data":2}, "model": "item/budy1"},
 		{"predicate": {"custom_model_data":3}, "model": "item/helmet"},
 		{"predicate": {"custom_model_data":4}, "model": "item/laser_shot"},
