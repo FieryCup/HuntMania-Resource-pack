@@ -1,7 +1,7 @@
 {
-	"parent": "block/blue_stained_glass",
+	"parent": "item/generated",
 	"textures": {
-		"layer0": "block/blue_stained_glass"
+		"layer0": "item/furnace_minecart"
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "item/diving_helmet"}
