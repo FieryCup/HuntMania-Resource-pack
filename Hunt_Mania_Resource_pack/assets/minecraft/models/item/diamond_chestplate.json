@@ -4,6 +4,6 @@
 		"layer0": "item/diamond_chestplate"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/mirror_chestplate"}
+		{"predicate": {"custom_model_data":1}, "model": "item/armor/mirror_chestplate"}
 	]
 }

@@ -4,6 +4,6 @@
 		"layer0": "item/diamond_boots"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/speed_boots"}
+		{"predicate": {"custom_model_data":1}, "model": "item/armor/speed_boots"}
 	]
 }
