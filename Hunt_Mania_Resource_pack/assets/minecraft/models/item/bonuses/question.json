@@ -1,8 +1,8 @@
 {
 	"credit": "By Limonchik_",
 	"textures": {
-		"1": "item/question",
-		"particle": "item/question"
+		"1": "item/bonuses/question",
+		"particle": "item/bonuses/question"
 	},
 	"elements": [
 		{

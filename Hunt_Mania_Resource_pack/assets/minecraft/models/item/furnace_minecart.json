@@ -4,6 +4,8 @@
 		"layer0": "item/furnace_minecart"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/diving_helmet"}
+		{"predicate": {"custom_model_data":1}, "model": "item/diving_helmet"},
+		{"predicate": {"custom_model_data":2}, "model": "item/bonuses/super_glue"},
+		{"predicate": {"custom_model_data":3}, "model": "item/bonuses/aid_kit"}
 	]
 }

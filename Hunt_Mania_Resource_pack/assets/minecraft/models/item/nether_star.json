@@ -4,6 +4,6 @@
 		"layer0": "item/nether_star"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/question"}
+		{"predicate": {"custom_model_data":1}, "model": "item/bonuses/question"}
 	]
 }
