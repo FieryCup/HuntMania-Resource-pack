@@ -16,6 +16,10 @@
   "quote.left": "«",
   "quote.right": "»",
   
+  "item.bonus.new": "Бонус",
+  "item.bonus.superglue": "Суперклей",
+  "item.bonus.heal": "Лечение",
+  
   "subtitles.planks.pressed": "Доски прогнуты",
   "subtitles.planks.pressed_out": "Доски выгнуты",
 
@@ -167,7 +171,5 @@
   
   "item.training_sword": "Тренировочный меч",
  
-  "item.bonus.new": "Бонус",
-  "item.bonus.superglue": "Суперклей",
   "entity.nemo": "Немо"
 }

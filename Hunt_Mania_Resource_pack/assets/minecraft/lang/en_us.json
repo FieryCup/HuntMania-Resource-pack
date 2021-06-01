@@ -16,6 +16,10 @@
   "quote.left": "\"",
   "quote.right": "\"",
   
+  "item.bonus.new": "Bonus",
+  "item.bonus.superglue": "Super glue",
+  "item.bonus.heal": "Heal",
+  
   "subtitles.planks.pressed": "Pressed planks",
   "subtitles.planks.pressed_out": "Pressed out planks",
 
@@ -167,7 +171,5 @@
   
   "item.training_sword": "Training sword",
   
-  "item.bonus.new": "Bonus",
-  "item.bonus.superglue": "Super glue",
   "entity.nemo": "Nemo"
 }
