@@ -4,7 +4,17 @@
   "language.code": "ru_ru",
 
 
-  "test.huntmania": "Это тест.",
+
+  "prefix.spawn": " ",
+  "prefix.found": " ",
+  "prefix.spectator": " ",
+  "prefix.hunter": " ",
+  "prefix.survivor": " ",
+
+  
+
+  "quote.left": "«",
+  "quote.right": "»",
   
   "subtitles.planks.pressed": "Доски прогнуты",
   "subtitles.planks.pressed_out": "Доски выгнуты",
@@ -14,6 +24,8 @@
 
   "game.first_hunter_coming": "Охотник скоро будет освобождён!",
   "game.first_hunters_coming": "Охотники скоро будут освобождены!",
+  "game.get_bonus.start": "Ты получил бонус ",
+  "game.get_bonus.end": "!",
   
   "lock.hunter": "Ржавый ключ",
   "lock.survivor": "Золотой ключ",
@@ -23,28 +35,32 @@
   "hunter.start": " вышел на свободу!",
   "hunter.start.title": "Убей их всех!",
   "hunter.start.subtitle": "",
-  "survivor.start.title": "Молись о спасении!",
-  "survivor.start.subtitle": "",
-  "hunter.win.title": "Охотники победили!",
-  "hunter.win.subtitle": "",
-  "survivor.lose.title": "Выжившие проиграли!",
-  "survivor.lose.subtitle": "",
-  "hunter.win": "Охотники победили!",
-  "survivor.win.title": "Выжившие победили!",
-  "survivor.win.subtitle": "",
   "hunter.lose.title": "Охотники проиграли!",
   "hunter.lose.subtitle": "",
+  "hunter.win": "Охотники победили!",
+  "hunter.win.title": "Охотники победили!",
+  "hunter.win.subtitle": "",
+
+  "survivor.start.title": "Молись о спасении!",
+  "survivor.start.subtitle": "",
+  "survivor.lose.title": "Выжившие проиграли!",
+  "survivor.lose.subtitle": "",
+  "survivor.win.title": "Выжившие победили!",
+  "survivor.win.subtitle": "",
   "survivor.win": "Выжившие победили!",
-  "huntmania.game.end": "Игра завершена!",
   "survivor.killed": " был убит!",
   "survivor.end_life": " расстался со своей жизнью!",
   "survivor.lives.no_more": "Нет дополнительных жизней",
   "survivor.lives.extra": "Дополнительные жизни: ",
 
+  "huntmania.game.end": "Игра завершена!",
+
   "place.wand": "Жезл мест",
   "place.wand.message": "Ты получил жезл мест!",
   "place.show.on": "Места были показаны!",
   "place.show.off": "Места были скрыты!",
+  "place.remove_bad": "Удалено некорректных мест спавна: ",
+  "place.bonus_spawn": "Появилось бонусов: ",
   "place.bonus": "Спавн бонусов",
   "place.hunter": "Спавн охотников",
   "place.survivor": "Спавн выживших",

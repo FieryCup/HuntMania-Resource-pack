@@ -4,13 +4,17 @@
   "language.code": "en_us",
 
 
+
   "prefix.spawn": " ",
   "prefix.found": " ",
   "prefix.spectator": " ",
   "prefix.hunter": " ",
   "prefix.survivor": " ",
 
-  "test.huntmania": "It's test.",
+
+
+  "quote.left": "\"",
+  "quote.right": "\"",
   
   "subtitles.planks.pressed": "Pressed planks",
   "subtitles.planks.pressed_out": "Pressed out planks",
@@ -20,6 +24,8 @@
 
   "game.first_hunter_coming": "Hunter will be released soon!",
   "game.first_hunters_coming": "Hunters will be released soon!",
+  "game.get_bonus.start": "You've got bonus ",
+  "game.get_bonus.end": "!",
 
   "lock.hunter": "Rusty key",
   "lock.survivor": "Golden key",
@@ -29,28 +35,32 @@
   "hunter.start": " was released!",
   "hunter.start.title": "Kill them all!",
   "hunter.start.subtitle": "",
-  "survivor.start.title": "Pray for salvation!",
-  "survivor.start.subtitle": "",
-  "hunter.win.title": "Hunters win!",
-  "hunter.win.subtitle": "",
-  "survivor.lose.title": "Survivors lost!",
-  "survivor.lose.subtitle": "",
-  "hunter.win": "Hunters win!",
-  "survivor.win.title": "Survivors win!",
-  "survivor.win.subtitle": "",
   "hunter.lose.title": "Hunters lost!",
   "hunter.lose.subtitle": "",
+  "hunter.win": "Hunters win!",
+  "hunter.win.title": "Hunters win!",
+  "hunter.win.subtitle": "",
+
+  "survivor.start.title": "Pray for salvation!",
+  "survivor.start.subtitle": "",
+  "survivor.lose.title": "Survivors lost!",
+  "survivor.lose.subtitle": "",
+  "survivor.win.title": "Survivors win!",
+  "survivor.win.subtitle": "",
   "survivor.win": "Survivors win!",
-  "huntmania.game.end": "Game finished!",
   "survivor.killed": " was killed!",
   "survivor.end_life": " parted with his life!",
   "survivor.lives.no_more": "No extra lives",
   "survivor.lives.extra": "Extra lives: ",
+  
+  "huntmania.game.end": "Game finished!",
 
   "place.wand": "Place wand",
   "place.wand.message": "You got place wand!",
   "place.show.on": "Places was shown!",
   "place.show.off": "Places was hidden!",
+  "place.remove_bad": "Removed invalid spawn places: ",
+  "place.bonus_spawn": "Bonuses appeared: ",
   "place.bonus": "Bonus spawn",
   "place.hunter": "Hunter spawn",
   "place.survivor": "Survivor spawn",
