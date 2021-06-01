@@ -122,10 +122,10 @@
   "item.arrow.gray": "Gray arrow",
   "item.arrow.spectrum": "Spectrum arrow",
   
-  "item.magic.boots": "Boots of speed",
-  "item.magic.chestplate": "Mirror chestplate",
-  "item.magic.helmet": "Night vision device",
-  "item.magic.leggings": "Pants of balance",
+  "item.night_vision_device": "Night vision device",
+  "item.speed_boots": "Boots of speed",
+  "item.mirrored_chestplate": "Mirror chestplate",
+  "item.balance_leggings": "Pants of balance",
 
   "item.reinforced.helmet": "Reinforced helmet",
   "item.reinforced.chestplate": "Reinforced chestplate",

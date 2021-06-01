@@ -122,10 +122,10 @@
   "item.arrow.gray": "Серая стрела",
   "item.arrow.spectrum": "Стрела спектра",
   
-  "item.magic.boots": "Сапоги-скороходы",
-  "item.magic.chestplate": "Зеркальный нагрудник",
-  "item.magic.helmet": "Прибор ночного видения",
-  "item.magic.leggings": "Штаны равновесия",
+  "item.night_vision_device": "Прибор ночного видения",
+  "item.speed_boots": "Сапоги-скороходы",
+  "item.mirrored_chestplate": "Зеркальный нагрудник",
+  "item.balance_leggings": "Штаны равновесия",
   
   "item.reinforced.helmet": "Укреплённый шлем",
   "item.reinforced.chestplate": "Укреплённый нагрудник",
