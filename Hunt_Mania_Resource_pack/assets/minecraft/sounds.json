@@ -15,14 +15,6 @@
                 "stream": true
             }]
     },
-	"bonus.superglue.stuck": {
-        "category": "master",
-        "sounds": [
-            {
-                "name": "bonuses/super_glue/stuck",
-                "stream": true
-            }]
-    },
     "heartbeat": {
         "category": "master",
         "sounds": [
@@ -46,5 +38,29 @@
                 "stream": true
             }],
         "subtitle": "subtitles.planks.pressed_out"
-    }
+    },
+	"bonus.superglue": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "bonuses/super_glue/super_glue",
+                "stream": true
+            }]
+    },
+    "bonus.heal": {
+         "category": "master",
+         "sounds": [
+             {
+                 "name": "bonuses/heal/heal_1",
+                 "stream": true
+             },
+             {
+                 "name": "bonuses/heal/heal_2",
+                 "stream": true
+             },
+             {
+                 "name": "bonuses/heal/heal_3",
+                 "stream": true
+             }]
+     }
 }

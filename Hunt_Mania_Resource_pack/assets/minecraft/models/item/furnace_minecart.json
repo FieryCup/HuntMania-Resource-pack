@@ -9,6 +9,8 @@
 		{"predicate": {"custom_model_data":3}, "model": "item/bonuses/aid_kit"},
 		{"predicate": {"custom_model_data":4}, "model": "item/bonuses/bomb"},
 		{"predicate": {"custom_model_data":5}, "model": "item/bonuses/xray"},
-		{"predicate": {"custom_model_data":6}, "model": "item/bonuses/epidemic"}
+		{"predicate": {"custom_model_data":6}, "model": "item/bonuses/epidemic"},
+		{"predicate": {"custom_model_data":7}, "model": "item/bonuses/cloak"},
+		{"predicate": {"custom_model_data":8}, "model": "item/bonuses/step"}
 	]
 }
