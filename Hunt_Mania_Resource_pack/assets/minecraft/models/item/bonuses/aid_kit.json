@@ -1,6 +1,6 @@
 {
 	"credit": "By Limonchik_",
-	"parent": "minecraft:item/handheld",
+	"parent": "minecraft:item/generated",
 	"textures": {
 		"layer0": "item/bonuses/aid_kit"
 	}

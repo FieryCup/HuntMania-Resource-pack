@@ -2,6 +2,6 @@
 	"credit": "By Limonchik_",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/bonuses/super_glue"
+		"layer0": "item/bonuses/xray"
 	}
 }
