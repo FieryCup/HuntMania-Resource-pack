@@ -86,5 +86,25 @@
                  "name": "bonuses/mine/explosion",
                  "stream": true
              }]
+     },
+     "bonus.mine.deactivation": {
+         "category": "master",
+         "sounds": [
+             {
+                 "name": "bonuses/mine/deactivation_1",
+                 "stream": true
+             },
+             {
+                 "name": "bonuses/mine/deactivation_2",
+                 "stream": true
+             }]
+     },
+     "bonus.mine.cancel": {
+         "category": "master",
+         "sounds": [
+             {
+                 "name": "bonuses/mine/cancel",
+                 "stream": true
+             }]
      }
 }
