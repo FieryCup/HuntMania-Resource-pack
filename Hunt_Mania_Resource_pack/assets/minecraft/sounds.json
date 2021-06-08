@@ -70,5 +70,13 @@
                  "name": "bonuses/radar/radar",
                  "stream": true
              }]
+     },
+     "bonus.cloak": {
+         "category": "master",
+         "sounds": [
+             {
+                 "name": "bonuses/cloak/cloak",
+                 "stream": true
+             }]
      }
 }

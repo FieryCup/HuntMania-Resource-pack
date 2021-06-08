@@ -4,14 +4,20 @@
 		"layer0": "item/furnace_minecart"
 	},
 	"overrides": [
+		{"predicate": {"custom_model_data":-9999}, "model": "item/bonuses/bomb"},
+		{"predicate": {"custom_model_data":-4}, "model": "item/bonuses/mine_model"},
 		{"predicate": {"custom_model_data":1}, "model": "item/bonuses/question"},
 		{"predicate": {"custom_model_data":2}, "model": "item/bonuses/super_glue"},
 		{"predicate": {"custom_model_data":3}, "model": "item/bonuses/aid_kit"},
-		{"predicate": {"custom_model_data":4}, "model": "item/bonuses/bomb"},
+		{"predicate": {"custom_model_data":4}, "model": "item/bonuses/mine"},
 		{"predicate": {"custom_model_data":5}, "model": "item/bonuses/xray"},
 		{"predicate": {"custom_model_data":6}, "model": "item/bonuses/epidemic"},
 		{"predicate": {"custom_model_data":7}, "model": "item/bonuses/cloak"},
 		{"predicate": {"custom_model_data":8}, "model": "item/bonuses/step"},
-		{"predicate": {"custom_model_data":9}, "model": "item/bonuses/eye"}
+		{"predicate": {"custom_model_data":9}, "model": "item/bonuses/eye"},
+		{"predicate": {"custom_model_data":10}, "model": "item/bonuses/stick"},
+		{"predicate": {"custom_model_data":11}, "model": "item/bonuses/disorientation"},
+		{"predicate": {"custom_model_data":12}, "model": "item/bonuses/aura"},
+		{"predicate": {"custom_model_data":13}, "model": "item/bonuses/energy"}
 	]
 }
