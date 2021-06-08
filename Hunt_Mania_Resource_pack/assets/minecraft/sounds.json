@@ -78,5 +78,13 @@
                  "name": "bonuses/cloak/cloak",
                  "stream": true
              }]
+     },
+     "bonus.mine.explosion": {
+         "category": "master",
+         "sounds": [
+             {
+                 "name": "bonuses/mine/explosion",
+                 "stream": true
+             }]
      }
 }
