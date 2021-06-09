@@ -48,6 +48,8 @@
   "item.bonus.aura.use": "item.bonus.aura.use_ru",
   "item.bonus.energy": "Энергетик",
   "item.bonus.energy.use": "Вы стали более энергичным!",
+  "item.bonus.panic": "---",
+  "item.bonus.panic.use": "---",
   
 
 

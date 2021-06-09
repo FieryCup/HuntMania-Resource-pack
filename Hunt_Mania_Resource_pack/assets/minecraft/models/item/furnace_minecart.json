@@ -18,6 +18,7 @@
 		{"predicate": {"custom_model_data":10}, "model": "item/bonuses/stick"},
 		{"predicate": {"custom_model_data":11}, "model": "item/bonuses/disorientation"},
 		{"predicate": {"custom_model_data":12}, "model": "item/bonuses/aura"},
-		{"predicate": {"custom_model_data":13}, "model": "item/bonuses/energy"}
+		{"predicate": {"custom_model_data":13}, "model": "item/bonuses/energy"},
+		{"predicate": {"custom_model_data":14}, "model": "item/bonuses/panic"}
 	]
 }
