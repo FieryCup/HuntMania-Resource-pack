@@ -79,11 +79,11 @@
                  "stream": true
              }]
      },
-     "bonus.mine.explosion": {
+     "bonus.mine.detonate": {
          "category": "master",
          "sounds": [
              {
-                 "name": "bonuses/mine/explosion",
+                 "name": "bonuses/mine/detonate",
                  "stream": true
              }]
      },
