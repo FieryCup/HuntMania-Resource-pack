@@ -39,7 +39,7 @@
             }],
         "subtitle": "subtitles.planks.pressed_out"
     },
-	"bonus.superglue": {
+	"bonus.superglue.use": {
         "category": "master",
         "sounds": [
             {
@@ -47,7 +47,7 @@
                 "stream": true
             }]
     },
-    "bonus.heal": {
+    "bonus.heal.use": {
          "category": "master",
          "sounds": [
              {
@@ -63,7 +63,7 @@
                  "stream": true
              }]
      },
-     "bonus.radar": {
+     "bonus.radar.use": {
          "category": "master",
          "sounds": [
              {
@@ -71,7 +71,7 @@
                  "stream": true
              }]
      },
-     "bonus.cloak": {
+     "bonus.cloak.use": {
          "category": "master",
          "sounds": [
              {

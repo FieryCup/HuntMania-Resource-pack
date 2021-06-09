@@ -18,18 +18,39 @@
   
   "item.bonus.new": "Бонус",
   "item.bonus.superglue": "Суперклей",
+  "item.bonus.superglue.use": "Все охотники были приклеены к полу на 5 секунд!",
   "item.bonus.heal": "Лечение",
+  "item.bonus.heal.use": "Ты исцелился!",
+
   "item.bonus.mine": "Мина",
+  "item.bonus.mine.use": "item.bonus.mine.use_ru",
+  "item.bonus.mine.in_fly": "item.bonus.mine.in_fly_ru",
+  "item.bonus.mine.bad_place": "item.bonus.mine.bad_place_ru",
+  "bonus.mine.deactivate": "bonus.mine.deactivate_ru",
+  "bonus.mine.detonate_soft": "bonus.mine.detonate_soft_ru",
+  "bonus.mine.detonate_hard": "bonus.mine.detonate_hard_ru",
+
   "item.bonus.xray": "Рентген",
+  "item.bonus.xray.use": "Показано местоположение всех выживших на 1 секунду!",
   "item.bonus.epidemic": "Эпидемия",
+  "item.bonus.epidemic.use": "У всех выживших вызывано отравление на 10 секунд!",
   "item.bonus.cloak": "Плащ-невидимка",
+  "item.bonus.cloak.use": "Вы стали невидимыми на 5 секунд!",
   "item.bonus.step": "След",
+  "item.bonus.step.use": "Выжившие временно будут оставлять следы!",
   "item.bonus.eye": "Третий глаз",
+  "item.bonus.eye.use": "Теперь можно проследить за случайным выжившим!",
   "item.bonus.stick": "Палочка-выручалочка",
+  "item.bonus.stick.use": "Вы телепортированы на случайную точку выживших!",
   "item.bonus.disorientation": "Дезориентация",
+  "item.bonus.disorientation.use": "Все охотники растерялись!",
   "item.bonus.aura": "Демоническая аура",
+  "item.bonus.aura.use": "item.bonus.aura.use_ru",
   "item.bonus.energy": "Энергетик",
+  "item.bonus.energy.use": "Вы стали более энергичным!",
   
+
+
   "subtitles.planks.pressed": "Доски прогнуты",
   "subtitles.planks.pressed_out": "Доски выгнуты",
 

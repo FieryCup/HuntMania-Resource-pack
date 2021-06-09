@@ -16,20 +16,43 @@
   "quote.left": "\"",
   "quote.right": "\"",
   
+
+
   "item.bonus.new": "Bonus",
   "item.bonus.superglue": "Super glue",
+  "item.bonus.superglue.use": "All the hunters were glued to the floor for 5 seconds!",
   "item.bonus.heal": "Heal",
+  "item.bonus.heal.use": "You're healed!",
+
   "item.bonus.mine": "Mine",
+  "item.bonus.mine.use": "item.bonus.mine.use_en",
+  "item.bonus.mine.in_fly": "item.bonus.mine.in_fly_en",
+  "item.bonus.mine.bad_place": "item.bonus.mine.bad_place_en",
+  "bonus.mine.deactivate": "bonus.mine.deactivate_en",
+  "bonus.mine.detonate_soft": "bonus.mine.detonate_soft_en",
+  "bonus.mine.detonate_hard": "bonus.mine.detonate_hard_en",
+
   "item.bonus.xray": "X-ray",
+  "item.bonus.xray.use": "item.bonus.xray.use_en",
   "item.bonus.epidemic": "Epidemic",
+  "item.bonus.epidemic.use": "item.bonus.epidemic.use_en",
   "item.bonus.cloak": "Cloak of invisibility",
+  "item.bonus.cloak.use": "item.bonus.cloak.use_en",
   "item.bonus.step": "Step",
+  "item.bonus.step.use": "item.bonus.step.use_en",
   "item.bonus.eye": "Third eye",
+  "item.bonus.eye.use": "item.bonus.eye.use_en",
   "item.bonus.stick": "Magic wand",
+  "item.bonus.stick.use": "item.bonus.stick.use_en",
   "item.bonus.disorientation": "Disorientation",
+  "item.bonus.disorientation.use": "item.bonus.disorientation.use_en",
   "item.bonus.aura": "Demonic aura",
+  "item.bonus.aura.use": "item.bonus.aura.use_en",
   "item.bonus.energy": "Energy drink",
+  "item.bonus.energy.use": "item.bonus.energy.use_en",
   
+
+
   "subtitles.planks.pressed": "Pressed planks",
   "subtitles.planks.pressed_out": "Pressed out planks",
 
