@@ -16,6 +16,7 @@
   "quote.left": "«",
   "quote.right": "»",
   
+  "bonus.appear": "Бонусы появились!",
   "item.bonus.new": "Бонус",
   "item.bonus.superglue": "Суперклей",
   "item.bonus.superglue.use": "Все охотники были приклеены к полу на 5 секунд!",
@@ -23,12 +24,13 @@
   "item.bonus.heal.use": "Ты исцелился!",
 
   "item.bonus.mine": "Мина",
-  "item.bonus.mine.use": "item.bonus.mine.use_ru",
-  "item.bonus.mine.in_fly": "item.bonus.mine.in_fly_ru",
-  "item.bonus.mine.bad_place": "item.bonus.mine.bad_place_ru",
-  "bonus.mine.deactivate": "bonus.mine.deactivate_ru",
-  "bonus.mine.detonate_soft": "bonus.mine.detonate_soft_ru",
-  "bonus.mine.detonate_hard": "bonus.mine.detonate_hard_ru",
+  "item.bonus.mine.use": "Мина установлена!",
+  "item.bonus.mine.warn": "ВНИМАНИЕ: мина активируется через 5 секунд, отойдите на безопасное расстояние!",
+  "item.bonus.mine.in_fly": "Нельзя установить мину в воздухе!",
+  "item.bonus.mine.bad_place": "Плохое место для установки!",
+  "bonus.mine.deactivate": "Мина успешно деактивирована!",
+  "bonus.mine.detonate_soft": "Мина взорвалась!",
+  "bonus.mine.detonate_hard": "Ты подорвался на мине!",
 
   "item.bonus.xray": "Рентген",
   "item.bonus.xray.use": "Показано местоположение всех выживших на 1 секунду!",
@@ -50,7 +52,7 @@
   "item.bonus.energy.use": "Вы стали более энергичным!",
   "item.bonus.panic": "---",
   "item.bonus.panic.use": "---",
-  
+
 
 
   "subtitles.planks.pressed": "Доски прогнуты",
@@ -96,6 +98,7 @@
   "place.wand.message": "Ты получил жезл мест!",
   "place.show.on": "Места были показаны!",
   "place.show.off": "Места были скрыты!",
+  "container.emptied": "Контейнеров опустошено: ",
   "place.remove_bad": "Удалено некорректных мест спавна: ",
   "place.bonus_spawn": "Появилось бонусов: ",
   "place.bonus": "Спавн бонусов",

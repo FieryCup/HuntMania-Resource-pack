@@ -18,6 +18,7 @@
   
 
 
+  "bonus.appear": "Bonuses appeared!",
   "item.bonus.new": "Bonus",
   "item.bonus.superglue": "Super glue",
   "item.bonus.superglue.use": "All the hunters were glued to the floor for 5 seconds!",
@@ -25,12 +26,13 @@
   "item.bonus.heal.use": "You're healed!",
 
   "item.bonus.mine": "Mine",
-  "item.bonus.mine.use": "item.bonus.mine.use_en",
-  "item.bonus.mine.in_fly": "item.bonus.mine.in_fly_en",
-  "item.bonus.mine.bad_place": "item.bonus.mine.bad_place_en",
-  "bonus.mine.deactivate": "bonus.mine.deactivate_en",
-  "bonus.mine.detonate_soft": "bonus.mine.detonate_soft_en",
-  "bonus.mine.detonate_hard": "bonus.mine.detonate_hard_en",
+  "item.bonus.mine.use": "Mine set!",
+  "item.bonus.mine.warn": "WARNING: mine will be activated after 5 second, move away to a safe distance!",
+  "item.bonus.mine.in_fly": "You cannot set mine in the air!",
+  "item.bonus.mine.bad_place": "Bad place to set!",
+  "bonus.mine.deactivate": "Mine have been successfully deactivated!",
+  "bonus.mine.detonate_soft": "Mine have blown up!",
+  "bonus.mine.detonate_hard": "You have blown up by a mine!",
 
   "item.bonus.xray": "X-ray",
   "item.bonus.xray.use": "item.bonus.xray.use_en",
@@ -110,6 +112,7 @@
   "container.wand.message": "You got container wand!",
   "container.show.on": "Containers was shown!",
   "container.show.off": "Containers was hidden!",
+  "container.emptied": "Containers have been emptied: ",
   "container.empty": "Empty container",
   "container.closed": "Closed container",
   "container.simple": "Simple container",

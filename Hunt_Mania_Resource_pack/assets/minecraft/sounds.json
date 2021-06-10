@@ -106,5 +106,13 @@
                  "name": "bonuses/mine/cancel",
                  "stream": true
              }]
+     },
+     "bonus.eye.use": {
+         "category": "master",
+         "sounds": [
+             {
+                 "name": "bonuses/eye/eye",
+                 "stream": true
+             }]
      }
 }
