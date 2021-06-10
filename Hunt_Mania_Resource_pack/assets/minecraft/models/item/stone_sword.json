@@ -1,5 +1,5 @@
 {
-	"parent": "item/stone_sword_model",
+	"parent": "item/handheld",
 	"textures": {
 		"layer0": "item/stone_sword"
 	},

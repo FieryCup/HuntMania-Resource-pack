@@ -1,9 +1,10 @@
 {
-	"parent": "item/wooden_sword_model",
+	"parent": "item/handheld",
 	"textures": {
 		"layer0": "item/wooden_sword"
 	},
 	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/training_sword"},
 		{"predicate": {"custom_model_data":42}, "model": "item/chest_wand"}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"parent": "item/netherite_axe_model",
+	"parent": "item/handheld",
 	"textures": {
 		"layer0": "item/netherite_axe"
 	},
