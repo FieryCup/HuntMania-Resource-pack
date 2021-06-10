@@ -87,15 +87,15 @@
                  "stream": true
              }]
      },
-     "bonus.mine.deactivation": {
+     "bonus.mine.deactivate": {
          "category": "master",
          "sounds": [
              {
-                 "name": "bonuses/mine/deactivation_1",
+                 "name": "bonuses/mine/deactivate_1",
                  "stream": true
              },
              {
-                 "name": "bonuses/mine/deactivation_2",
+                 "name": "bonuses/mine/deactivate_2",
                  "stream": true
              }]
      },
