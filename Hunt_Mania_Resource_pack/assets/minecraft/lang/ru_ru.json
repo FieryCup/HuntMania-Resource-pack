@@ -5,11 +5,14 @@
 
 
 
-  "prefix.spawn": " ",
-  "prefix.found": " ",
   "prefix.spectator": " ",
   "prefix.hunter": " ",
   "prefix.survivor": " ",
+  "prefix.found": " ",
+  "prefix.spawn": " ",
+
+  "chat.global": "",
+  "chat.local": "",
 
   
 
@@ -63,8 +66,8 @@
   "bonus.superglue.used": "Ты был приклеен к полу!",
 
 
-  "subtitles.planks.pressed": "Доски прогнуты",
-  "subtitles.planks.pressed_out": "Доски выгнуты",
+  "subtitles.planks.pressed": "Доски прогнулись",
+  "subtitles.planks.pressed_out": "Доски выгнулись",
 
   "locked.door": "Дверь заперта!",
   "locked.trapdoor": "Люк заперт!",

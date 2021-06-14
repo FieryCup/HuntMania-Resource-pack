@@ -5,11 +5,14 @@
 
 
 
-  "prefix.spawn": " ",
-  "prefix.found": " ",
   "prefix.spectator": " ",
   "prefix.hunter": " ",
   "prefix.survivor": " ",
+  "prefix.found": " ",
+  "prefix.spawn": " ",
+
+  "chat.global": "",
+  "chat.local": "",
 
 
 
