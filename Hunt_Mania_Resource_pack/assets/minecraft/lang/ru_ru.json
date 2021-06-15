@@ -19,6 +19,13 @@
   "quote.left": "«",
   "quote.right": "»",
   
+
+  "spectate.start": "Ты стал наблюдателем",
+  "spectate.player": "Ты наблюдаешь за ",
+  "spectate.free": "Ты перешёл в режим свободного наблюдения",
+  "spectate.finish": "Ты больше не наблюдатель",
+
+
   "item.bonus.new": "Бонус",
   "item.bonus.superglue": "Суперклей",
   "item.bonus.superglue.use": "Все охотники были приклеены к полу на 5 секунд!",
@@ -39,7 +46,7 @@
   "item.bonus.epidemic": "Эпидемия",
   "item.bonus.epidemic.use": "Выжившие были отравлены!",
   "item.bonus.cloak": "Плащ-невидимка",
-  "item.bonus.cloak.use": "Ты стал невидимкой!",
+  "item.bonus.cloak.use": "Ты стал невидимым для охотников!",
   "item.bonus.track": "След",
   "item.bonus.track.use": "Ты можешь увидеть следы выживших!",
   "item.bonus.eye": "Третий глаз",
