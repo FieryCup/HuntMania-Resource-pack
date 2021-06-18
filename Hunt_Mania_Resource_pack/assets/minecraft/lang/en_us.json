@@ -24,7 +24,10 @@
   "spectate.player": "You spectate at ",
   "spectate.free": "You spectate in a free mode",
   "spectate.finish": "You stop being spectator",
+
+  "countdown.finish": "Finish!",
   
+  "item.bonus.use.imprisoned": "You can't use bonuses in a prison",
 
   "item.bonus.new": "Bonus",
   "item.bonus.superglue": "Super glue",
@@ -71,6 +74,7 @@
   "bonus.panic.used": "You feel mortal terror!",
   "bonus.track.used": "Somebody can follow you...",
   "bonus.superglue.used": "You have been glued to the floor!",
+  "bonus.choice": "Pick one",
 
 
   "subtitles.planks.pressed": "Pressed planks",

@@ -25,6 +25,9 @@
   "spectate.free": "Ты перешёл в режим свободного наблюдения",
   "spectate.finish": "Ты больше не наблюдатель",
 
+  "countdown.finish": "Конец!",
+
+  "item.bonus.use.imprisoned": "Ты не можешь использовать бонусы в тюрьме",
 
   "item.bonus.new": "Бонус",
   "item.bonus.superglue": "Суперклей",
@@ -71,6 +74,7 @@
   "bonus.panic.used": "Ты чувствуешь смертельный ужас!",
   "bonus.track.used": "Кто-то может проследить за тобой...",
   "bonus.superglue.used": "Ты был приклеен к полу!",
+  "bonus.choice": "Возьми один",
 
 
   "subtitles.planks.pressed": "Доски прогнулись",
