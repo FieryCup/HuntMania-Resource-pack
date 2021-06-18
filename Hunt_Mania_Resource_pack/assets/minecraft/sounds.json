@@ -170,5 +170,13 @@
                  "name": "note/pling",
                  "stream": true
              }]
+     },
+     "bonus.launcher.use": {
+         "category": "master",
+         "sounds": [
+             {
+                 "name": "note/pling",
+                 "stream": true
+             }]
      }
 }
