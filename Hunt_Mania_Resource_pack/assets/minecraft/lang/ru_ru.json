@@ -31,7 +31,7 @@
 
   "item.bonus.new": "Бонус",
   "item.bonus.superglue": "Суперклей",
-  "item.bonus.superglue.use": "Все охотники были приклеены к полу на 5 секунд!",
+  "item.bonus.superglue.use": "Охотники были приклеены к полу!",
   "item.bonus.heal": "Лечение",
   "item.bonus.heal.use": "Ты исцелился!",
 
@@ -64,6 +64,7 @@
   "item.bonus.energy.use": "Ты ощущаешь прилив сил!",
   "item.bonus.panic": "Панический страх",
   "item.bonus.panic.use": "Выжившие впали в отчаяние!",
+  "item.bonus.choice": "Выбор",
 
   "bonus.appear": "Бонусы появились!",
   "bonus.disappear": "Бонусы исчезли!",

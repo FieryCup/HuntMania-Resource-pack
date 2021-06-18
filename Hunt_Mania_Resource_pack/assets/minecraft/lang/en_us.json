@@ -31,13 +31,13 @@
 
   "item.bonus.new": "Bonus",
   "item.bonus.superglue": "Super glue",
-  "item.bonus.superglue.use": "All the hunters were glued to the floor for 5 seconds!",
+  "item.bonus.superglue.use": "Hunters have been glued to the floor!",
   "item.bonus.heal": "Heal",
   "item.bonus.heal.use": "You're healed!",
 
   "item.bonus.mine": "Mine",
   "item.bonus.mine.use": "Mine set!",
-  "item.bonus.mine.warn": "WARNING: mine will be activated after 5 second, move away to a safe distance!",
+  "item.bonus.mine.warn": "WARNING: mine will be activated in 5 seconds, move away to a safe distance!",
   "item.bonus.mine.in_fly": "You cannot set mine in the air!",
   "item.bonus.mine.bad_place": "Bad place to set!",
   "bonus.mine.deactivate": "Mine have been successfully deactivated!",
@@ -64,6 +64,7 @@
   "item.bonus.energy.use": "You feel a surge of strength!",
   "item.bonus.panic": "Panic fear",
   "item.bonus.panic.use": "Survivors have fell into despair!",
+  "item.bonus.choice": "Choice",
   
   "bonus.appear": "Bonuses appeared!",
   "bonus.disappear": "Bonuses disappeared!",

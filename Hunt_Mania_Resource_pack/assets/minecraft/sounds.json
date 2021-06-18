@@ -114,5 +114,61 @@
                  "name": "bonuses/eye/eye",
                  "stream": true
              }]
+     },
+     "bonus.new": {
+         "category": "master",
+         "sounds": [
+             {
+                 "name": "note/harp2",
+                 "stream": true
+             }]
+     },
+     "bonus.epidemic.use": {
+         "category": "master",
+         "sounds": [
+             {
+                 "name": "note/pling",
+                 "stream": true
+             }]
+     },
+     "bonus.disorientation.use": {
+         "category": "master",
+         "sounds": [
+             {
+                 "name": "note/pling",
+                 "stream": true
+             }]
+     },
+     "bonus.track.use": {
+         "category": "master",
+         "sounds": [
+             {
+                 "name": "note/pling",
+                 "stream": true
+             }]
+     },
+     "bonus.aura.use": {
+         "category": "master",
+         "sounds": [
+             {
+                 "name": "note/pling",
+                 "stream": true
+             }]
+     },
+     "bonus.energy.use": {
+         "category": "master",
+         "sounds": [
+             {
+                 "name": "note/pling",
+                 "stream": true
+             }]
+     },
+     "bonus.choice.use": {
+         "category": "master",
+         "sounds": [
+             {
+                 "name": "note/pling",
+                 "stream": true
+             }]
      }
 }
