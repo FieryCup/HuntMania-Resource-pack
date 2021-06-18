@@ -47,7 +47,8 @@
   "item.bonus.xray": "X-ray",
   "item.bonus.xray.use": "Survivors are being glowed!",
   "item.bonus.epidemic": "Epidemic",
-  "item.bonus.epidemic.use": "Survivors are being poisoned!",
+  "item.bonus.epidemic.use.survivor": "Hunters are being poisoned!",
+  "item.bonus.epidemic.use.hunter": "Survivors are being poisoned!",
   "item.bonus.cloak": "Cloak of invisibility",
   "item.bonus.cloak.use": "You have become invisible to hunters!",
   "item.bonus.track": "Track",
@@ -76,6 +77,8 @@
   "bonus.track.used": "Somebody can follow you...",
   "bonus.superglue.used": "You have been glued to the floor!",
   "bonus.choice": "Pick one",
+  "bonus.launcher.use": "Fireworks have launched!",
+  "bonus.launcher.used": "Firework!",
 
 
   "subtitles.planks.pressed": "Pressed planks",
