@@ -178,5 +178,13 @@
                  "name": "note/pling",
                  "stream": true
              }]
+     },
+     "bonus.xray.use": {
+         "category": "master",
+         "sounds": [
+             {
+                 "name": "note/pling",
+                 "stream": true
+             }]
      }
 }
