@@ -186,5 +186,13 @@
                  "name": "note/pling",
                  "stream": true
              }]
+     },
+     "smoke_bomb.explode": {
+         "category": "master",
+         "sounds": [
+             {
+                 "name": "smoke_bomb/explode",
+                 "stream": true
+             }]
      }
 }
