@@ -30,6 +30,7 @@
   "item.bonus.use.imprisoned": "Ты не можешь использовать бонусы в тюрьме",
 
   "item.bonus.new": "Бонус",
+  "item.bonus.use_fail": "Сейчас нельзя использовать этот бонус!",
   "item.bonus.superglue": "Суперклей",
   "item.bonus.superglue.use": "Охотники были приклеены к полу!",
   "item.bonus.heal": "Лечение",
@@ -67,6 +68,7 @@
   "item.bonus.panic": "Панический страх",
   "item.bonus.panic.use": "Выжившие впали в отчаяние!",
   "item.bonus.choice": "Выбор",
+  "item.bonus.launcher": "Ракетница",
 
   "bonus.appear": "Бонусы появились!",
   "bonus.disappear": "Бонусы исчезли!",
@@ -168,6 +170,8 @@
   "prohibited.bed": "Вы не можете пользоваться кроватью",
   
   "item.laser": "Лазерная пушка",
+
+  "item.smoke_bomb": "Дымовая бомба",
   
   "item.arrow.regular": "Обычная стрела",
   "item.arrow.thunder": "Громовая стрела",

@@ -30,6 +30,7 @@
   "item.bonus.use.imprisoned": "You can't use bonuses in a prison",
 
   "item.bonus.new": "Bonus",
+  "item.bonus.use_fail": "You couldn't use this bonus now!",
   "item.bonus.superglue": "Super glue",
   "item.bonus.superglue.use": "Hunters have been glued to the floor!",
   "item.bonus.heal": "Heal",
@@ -67,6 +68,7 @@
   "item.bonus.panic": "Panic fear",
   "item.bonus.panic.use": "Survivors have fell into despair!",
   "item.bonus.choice": "Choice",
+  "item.bonus.launcher": "Rocket Launcher",
   
   "bonus.appear": "Bonuses appeared!",
   "bonus.disappear": "Bonuses disappeared!",
@@ -168,6 +170,8 @@
   "prohibited.bed": "You can't use the bed",
   
   "item.laser": "Laser gun",
+
+  "item.smoke_bomb": "Smoke bomb",
   
   "item.arrow.regular": "Regular arrow",
   "item.arrow.thunder": "Thunder arrow",
