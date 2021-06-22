@@ -30,7 +30,7 @@
   "item.bonus.use.imprisoned": "Ты не можешь использовать бонусы в тюрьме",
 
   "item.bonus.new": "Бонус",
-  "item.bonus.use_fail": "Сейчас нельзя использовать этот бонус!",
+  "item.bonus.use.fail": "Сейчас нельзя использовать этот бонус!",
   "item.bonus.superglue": "Суперклей",
   "item.bonus.superglue.use": "Охотники были приклеены к полу!",
   "item.bonus.heal": "Лечение",
@@ -69,6 +69,7 @@
   "item.bonus.panic.use": "Выжившие впали в отчаяние!",
   "item.bonus.choice": "Выбор",
   "item.bonus.launcher": "Ракетница",
+  "item.bonus.launcher.use": "Фейерверки запущены!",
 
   "bonus.appear": "Бонусы появились!",
   "bonus.disappear": "Бонусы исчезли!",
@@ -80,12 +81,18 @@
   "bonus.track.used": "Кто-то может проследить за тобой...",
   "bonus.superglue.used": "Ты был приклеен к полу!",
   "bonus.choice": "Возьми один",
-  "bonus.launcher.use": "Фейерверки запущены!",
   "bonus.launcher.used": "Салют!",
 
 
   "subtitles.planks.pressed": "Доски прогнулись",
   "subtitles.planks.pressed_out": "Доски выгнулись",
+  "subtitle.bonus.use.fail": "Отмена использования бонуса",
+  "subtitle.bonus.new.subtitle": "Бонус получен",
+  "subtitle.bonus.use.subtitle": "Бонус использован",
+  "subtitle.smoke_bomb.explode": "Дымовая бомба взорвалась",
+  "subtitle.bonus.mine.cancel": "Отмена установки мины",
+  "subtitle.bonus.mine.deactivate": "Мина деактивирована",
+  "subtitle.bonus.mine.detonate": "Мина сдетонировала",
 
   "locked.door": "Дверь заперта!",
   "locked.trapdoor": "Люк заперт!",

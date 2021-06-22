@@ -30,7 +30,7 @@
   "item.bonus.use.imprisoned": "You can't use bonuses in a prison",
 
   "item.bonus.new": "Bonus",
-  "item.bonus.use_fail": "You couldn't use this bonus now!",
+  "item.bonus.use.fail": "You couldn't use this bonus now!",
   "item.bonus.superglue": "Super glue",
   "item.bonus.superglue.use": "Hunters have been glued to the floor!",
   "item.bonus.heal": "Heal",
@@ -69,6 +69,7 @@
   "item.bonus.panic.use": "Survivors have fell into despair!",
   "item.bonus.choice": "Choice",
   "item.bonus.launcher": "Rocket Launcher",
+  "item.bonus.launcher.use": "Fireworks have launched!",
   
   "bonus.appear": "Bonuses appeared!",
   "bonus.disappear": "Bonuses disappeared!",
@@ -80,12 +81,18 @@
   "bonus.track.used": "Somebody can follow you...",
   "bonus.superglue.used": "You have been glued to the floor!",
   "bonus.choice": "Pick one",
-  "bonus.launcher.use": "Fireworks have launched!",
   "bonus.launcher.used": "Firework!",
 
 
-  "subtitles.planks.pressed": "Pressed planks",
-  "subtitles.planks.pressed_out": "Pressed out planks",
+  "subtitle.planks.pressed": "Pressed planks",
+  "subtitle.planks.pressed_out": "Pressed out planks",
+  "subtitle.bonus.use.fail": "Bonus using cancelled",
+  "subtitle.bonus.new": "Bonus received",
+  "subtitle.bonus.use": "Bonus used",
+  "subtitle.smoke_bomb.explode": "Smoke bomb exploded",
+  "subtitle.bonus.mine.cancel": "Mine set cancelled",
+  "subtitle.bonus.mine.deactivate": "Mine deactivated",
+  "subtitle.bonus.mine.detonate": "Mine detonated",
 
   "locked.door": "Door locked!",
   "locked.trapdoor": "Trapdoor locked!",

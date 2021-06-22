@@ -39,13 +39,32 @@
             }],
         "subtitle": "subtitles.planks.pressed_out"
     },
+    "bonus.new": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "note/harp2",
+                "stream": true
+            }],
+            "subtitle": "subtitle.bonus.new"
+    },
+    "bonus.use.fail": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "note/pling",
+                "stream": true
+            }],
+            "subtitle": "subtitle.bonus.use.fail"
+    },
 	"bonus.superglue.use": {
         "category": "master",
         "sounds": [
             {
                 "name": "bonuses/super_glue/super_glue",
                 "stream": true
-            }]
+            }],
+            "subtitle": "subtitle.bonus.use"
     },
     "bonus.heal.use": {
          "category": "master",
@@ -61,7 +80,8 @@
              {
                  "name": "bonuses/heal/heal_3",
                  "stream": true
-             }]
+             }],
+             "subtitle": "subtitle.bonus.use"
      },
      "bonus.radar.use": {
          "category": "master",
@@ -69,7 +89,8 @@
              {
                  "name": "bonuses/radar/radar",
                  "stream": true
-             }]
+             }],
+             "subtitle": "subtitle.bonus.use"
      },
      "bonus.cloak.use": {
          "category": "master",
@@ -77,7 +98,8 @@
              {
                  "name": "bonuses/cloak/cloak",
                  "stream": true
-             }]
+             }],
+             "subtitle": "subtitle.bonus.use"
      },
      "bonus.mine.detonate": {
          "category": "master",
@@ -85,7 +107,8 @@
              {
                  "name": "bonuses/mine/detonate",
                  "stream": true
-             }]
+             }],
+             "subtitle": "subtitle.bonus.mine.detonate"
      },
      "bonus.mine.deactivate": {
          "category": "master",
@@ -97,7 +120,8 @@
              {
                  "name": "bonuses/mine/deactivate_2",
                  "stream": true
-             }]
+             }],
+             "subtitle": "subtitle.bonus.mine.deactivate"
      },
      "bonus.mine.cancel": {
          "category": "master",
@@ -105,7 +129,8 @@
              {
                  "name": "bonuses/mine/cancel",
                  "stream": true
-             }]
+             }],
+             "subtitle": "subtitle.bonus.mine.cancel"
      },
      "bonus.eye.use": {
          "category": "master",
@@ -113,15 +138,8 @@
              {
                  "name": "bonuses/eye/eye",
                  "stream": true
-             }]
-     },
-     "bonus.new": {
-         "category": "master",
-         "sounds": [
-             {
-                 "name": "note/harp2",
-                 "stream": true
-             }]
+             }],
+             "subtitle": "subtitle.bonus.use"
      },
      "bonus.epidemic.use": {
          "category": "master",
@@ -129,7 +147,8 @@
              {
                  "name": "note/pling",
                  "stream": true
-             }]
+             }],
+             "subtitle": "subtitle.bonus.use"
      },
      "bonus.disorientation.use": {
          "category": "master",
@@ -137,7 +156,8 @@
              {
                  "name": "note/pling",
                  "stream": true
-             }]
+             }],
+             "subtitle": "subtitle.bonus.use"
      },
      "bonus.track.use": {
          "category": "master",
@@ -145,7 +165,8 @@
              {
                  "name": "note/pling",
                  "stream": true
-             }]
+             }],
+             "subtitle": "subtitle.bonus.use"
      },
      "bonus.aura.use": {
          "category": "master",
@@ -153,7 +174,8 @@
              {
                  "name": "note/pling",
                  "stream": true
-             }]
+             }],
+             "subtitle": "subtitle.bonus.use"
      },
      "bonus.energy.use": {
          "category": "master",
@@ -161,7 +183,8 @@
              {
                  "name": "note/pling",
                  "stream": true
-             }]
+             }],
+             "subtitle": "subtitle.bonus.use"
      },
      "bonus.choice.use": {
          "category": "master",
@@ -169,7 +192,8 @@
              {
                  "name": "note/pling",
                  "stream": true
-             }]
+             }],
+             "subtitle": "subtitle.bonus.use"
      },
      "bonus.launcher.use": {
          "category": "master",
@@ -177,15 +201,17 @@
              {
                  "name": "note/pling",
                  "stream": true
-             }]
+             }],
+             "subtitle": "subtitle.bonus.use"
      },
      "bonus.xray.use": {
          "category": "master",
          "sounds": [
              {
-                 "name": "note/pling",
+                 "name": "bonuses/xray/use",
                  "stream": true
-             }]
+             }],
+             "subtitle": "subtitle.bonus.use"
      },
      "smoke_bomb.explode": {
          "category": "master",
@@ -193,6 +219,7 @@
              {
                  "name": "smoke_bomb/explode",
                  "stream": true
-             }]
+             }],
+             "subtitle": "subtitle.smoke_bomb.explode"
      }
 }
