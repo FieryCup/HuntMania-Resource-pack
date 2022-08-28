@@ -3,13 +3,117 @@
   "language.region": "United States",
   "language.code": "en_us",
 
+  "game.containers.refilled": "Some containers were refilled!",
 
+  "lootable.register.all": "Translation 'lootable.register.all' missing",
+  "lootable.register.world": "Translation 'lootable.register.world' missing",
+
+  "lootable.remove_redundant": "Removed redundant containers: %s",
+  "lootable.show": "Containers was shown!",
+  "lootable.hide": "Containers was hidden!",
+  "lootable.fill": "Filled containers: %s",
+  "lootable.empty": "Empty container",
+
+  "lootable.undefined.name": "Translation 'lootable.undefined.name' missing",
+  "lootable.undefined.description": "Translation 'lootable.undefined.description' missing",
+  "lootable.container.locked": "Translation 'lootable.container.locked' missing",
+  "lootable.container.spectator": "Translation 'lootable.container.spectator' missing",
+
+  "place.show": "Places was shown!",
+  "place.hide": "Places was hidden!",
+  "game.spectator.spectate.entity": "You spectate at %s",
+  "game.spectator.spectate.free": "You spectate in a free mode",
+
+  "game.prohibited.use": "Translation 'game.prohibited.use' missing",
+
+  "game.bonuses.appear": "Bonuses appeared!",
+  "game.bonuses.disappear": "Bonuses disappeared!",
+
+  "bonus.remove.fail": "Translation 'bonus.remove.fail' missing",
+  "bonus.pickup": "Translation 'bonus.pickup' missing",
+  "bonus.use.caught": "Translation 'bonus.use.caught' missing",
+
+  "bonus.use.fail": "You couldn't use this bonus now!",
+  "bonus.aura": "Demonic aura",
+  "bonus.choice": "Choice",
+  "bonus.cloak": "Cloak of invisibility",
+  "bonus.disorientation": "Disorientation",
+  "bonus.energy": "Energy drink",
+  "bonus.epidemic": "Epidemic",
+  "bonus.eye": "Third eye",
+  "bonus.heal": "Heal",
+  "bonus.launcher": "Rocket Launcher",
+  "bonus.mine": "Mine",
+  "bonus.stick": "Magic wand",
+  "bonus.panic": "Panic fear",
+  "bonus.superglue": "Super glue",
+  "bonus.track": "Track",
+  "bonus.xray": "X-ray",
+  "bonus.disorientation.used": "Something strange is happening!",
+  "bonus.epidemic.used": "You are poisoned!",
+  "bonus.eye.used": "You feel someone's presence...",
+  "bonus.launcher.used": "Firework!",
+  "bonus.mine.use.in_fly": "You cannot set mine in the air!",
+  "bonus.mine.use.bad_place": "Bad place to set!",
+  "bonus.mine.use.warning": "WARNING: mine will be activated in 5 seconds, move away to a safe distance!",
+  "bonus.mine.detonate.soft": "Mine have blown up!",
+  "bonus.mine.detonate.hard": "You have blown up by a mine!",
+  "bonus.mine.deactivate": "Mine have been successfully deactivated!",
+  "bonus.superglue.used": "You have been glued to the floor!",
+  "bonus.track.used": "Somebody can follow you...",
+  "bonus.xray.used": "You are glowing!",
+
+  "bonus.choice.menu": "Translation 'bonus.choice.menu' missing",
+  "arrow.abstract.message": "Translation 'arrow.abstract.message' missing",
+
+  "block.door.locked": "Door locked!",
+  "block.trapdoor.locked": "Trapdoor locked!",
+
+  "player.revives.no_more": "Translation 'player.revives.no_more' missing",
+  "player.revives.last": "Translation 'player.revives.last' missing",
+  "game.hunt.coming": "Translation 'game.hunt.coming' missing",
+  "game.hunt.started": "Translation 'game.hunt.started' missing",
+
+  "game.hunter.release_in": "Release in %s",
+  "hunter.released": "You have been released!",
+
+  "player.survivor.died": "Translation 'player.survivor.died' missing",
+  "player.hunter.died": "Translation 'player.hunter.died' missing",
+
+  "item.hunter.boots": "Bloody boots",
+  "item.hunter.leggings": "Bloody leggings",
+  "item.hunter.chestplate": "Bloody chestplate",
+  "item.hunter.helmet": "Bloody helmet",
+  "item.hunter.axe": "Butcher's axe",
+  "item.hunter.bow": "Hunter bow",
+  "item.hunter.steak": "Bloody steak",
+  "item.survivor.boots": "Battered boots",
+  "item.survivor.leggings": "Battered leggings",
+  "item.survivor.chestplate": "Battered chestplate",
+  "item.survivor.helmet": "Battered helmet",
+  "item.pebbles": "Pebble",
+  "item.dead_rose": "Dried rose",
+  "item.slime": "Slime",
+  "huntmania.game.hunters.win.title": "Hunters win!",
+  "huntmania.game.hunters.win.subtitle": "",
+  "huntmania.game.hunters.win.message": "Hunters win!",
+  "huntmania.game.hunters.lose.title": "Hunters lost!",
+  "huntmania.game.hunters.lose.subtitle": "",
+  "huntmania.game.survivors.win.title": "Survivors win!",
+  "huntmania.game.survivors.win.subtitle": "",
+  "huntmania.game.survivors.win.message": "Survivors win!",
+  "huntmania.game.survivors.lose.title": "Survivors lost!",
+  "huntmania.game.survivors.lose.subtitle": "",
+
+  
+  "_first_comment": "Old translations",
 
   "prefix.spectator": " ",
   "prefix.hunter": " ",
   "prefix.survivor": " ",
-  "prefix.found": " ",
   "prefix.spawn": " ",
+  "prefix.caught": " ",
+  "prefix.prisoner": "Translation 'prefix.prisoner' missing",
 
   "chat.global": "",
   "chat.local": "",
@@ -41,7 +145,6 @@
   "item.bonus.mine.warn": "WARNING: mine will be activated in 5 seconds, move away to a safe distance!",
   "item.bonus.mine.in_fly": "You cannot set mine in the air!",
   "item.bonus.mine.bad_place": "Bad place to set!",
-  "bonus.mine.deactivate": "Mine have been successfully deactivated!",
   "bonus.mine.detonate_soft": "Mine have blown up!",
   "bonus.mine.detonate_hard": "You have blown up by a mine!",
 
@@ -73,15 +176,7 @@
   
   "bonus.appear": "Bonuses appeared!",
   "bonus.disappear": "Bonuses disappeared!",
-  "bonus.xray.used": "You are glowing!",
-  "bonus.epidemic.used": "You are poisoned!",
-  "bonus.eye.used": "You feel someone's presence...",
-  "bonus.disorientation.used": "Something strange is happening!",
   "bonus.panic.used": "You feel mortal terror!",
-  "bonus.track.used": "Somebody can follow you...",
-  "bonus.superglue.used": "You have been glued to the floor!",
-  "bonus.choice": "Pick one",
-  "bonus.launcher.used": "Firework!",
 
 
   "subtitle.planks.pressed": "Pressed planks",
@@ -93,9 +188,6 @@
   "subtitle.bonus.mine.cancel": "Mine set cancelled",
   "subtitle.bonus.mine.deactivate": "Mine deactivated",
   "subtitle.bonus.mine.detonate": "Mine detonated",
-
-  "locked.door": "Door locked!",
-  "locked.trapdoor": "Trapdoor locked!",
 
   "game.first_hunter_coming": "Hunter will be released soon!",
   "game.first_hunters_coming": "Hunters will be released soon!",
@@ -110,21 +202,9 @@
   "hunter.start": " was released!",
   "hunter.start.title": "Kill them all!",
   "hunter.start.subtitle": "",
-  "hunter.release_in": "Release in ",
-  "hunter.released": "You have been released!",
-  "hunter.lose.title": "Hunters lost!",
-  "hunter.lose.subtitle": "",
-  "hunter.win": "Hunters win!",
-  "hunter.win.title": "Hunters win!",
-  "hunter.win.subtitle": "",
 
   "survivor.start.title": "Pray for salvation!",
   "survivor.start.subtitle": "",
-  "survivor.lose.title": "Survivors lost!",
-  "survivor.lose.subtitle": "",
-  "survivor.win.title": "Survivors win!",
-  "survivor.win.subtitle": "",
-  "survivor.win": "Survivors win!",
   "survivor.killed": " was killed!",
   "survivor.end_life": " parted with his life!",
   "survivor.lives.no_more": "No extra lives",
@@ -160,19 +240,6 @@
   "container.register_all": "Registered new containers: ",
   "container.filled":  "Filled containers: ",
   "container.refilled": "Some containers were refilled!",
-  
-  "item.hunter.axe": "Butcher's axe",
-  "item.hunter.bow": "Hunter bow",
-  "item.hunter.steak": "Bloody steak",
-  "item.hunter.helmet": "Bloody helmet",
-  "item.hunter.chestplate": "Bloody chestplate",
-  "item.hunter.leggings": "Bloody leggings",
-  "item.hunter.boots": "Bloody boots",
-  
-  "item.survivor.helmet": "Battered helmet",
-  "item.survivor.chestplate": "Battered chestplate",
-  "item.survivor.leggings": "Battered leggings",
-  "item.survivor.boots": "Battered boots",
   
   "prohibited.bed": "You can't use the bed",
   
@@ -228,15 +295,13 @@
   
 
 
-  "_comment": "Old translates",
+  "_second_comment": "Very old translations",
 
   "item.firework": "Firework",
   "item.battery": "Battery",
   "item.aqualung": "Aqualung",
 
-  "item.pebble": "Pebble",
   "item.gum": "Dried gum",
-  "item.rose": "Dried rose",
   "item.seeds": "Seeds",
   "item.biowaste": "Biowastes",
   "item.broken_disc": "Broken disc",

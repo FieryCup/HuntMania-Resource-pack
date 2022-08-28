@@ -1,15 +1,122 @@
 {
+  "_TODO1": "Заменить мелодию пластинки 11 на звук скрип/скрежет сломанной пластинки длительностью 10 секунд",
+  "_TODO2": "Добавить иконку для prefix.prisoner",
+
   "language.name": "Русский",
   "language.region": "Россия",
   "language.code": "ru_ru",
+  
+  "game.containers.refilled": "Некоторые контейнеры были перезаполнены!",
+
+  "lootable.register.all": "Перевод 'lootable.register.all' отсутствует",
+  "lootable.register.world": "Перевод 'lootable.register.world' отсутствует",
+
+  "lootable.remove_redundant": "Удалено лишних контейнеров: %s",
+  "lootable.show": "Контейнеры были показаны!",
+  "lootable.hide": "Контейнеры были скрыты!",
+  "lootable.fill": "Заполнено контейнеров: %s",
+  "lootable.empty": "Пустой контейнер",
+
+  "lootable.undefined.name": "Перевод 'lootable.undefined.name' отсутствует",
+  "lootable.undefined.description": "Перевод 'lootable.undefined.description' отсутствует",
+  "lootable.container.locked": "Перевод 'lootable.container.locked' отсутствует",
+  "lootable.container.spectator": "Перевод 'lootable.container.spectator' отсутствует",
+
+  "place.show": "Места были показаны!",
+  "place.hide": "Места были скрыты!",
+  "game.spectator.spectate.entity": "Ты наблюдаешь за %s",
+  "game.spectator.spectate.free": "Ты перешёл в режим свободного наблюдения",
+
+  "game.prohibited.use": "Перевод 'game.prohibited.use' отсутствует",
+
+  "game.bonuses.appear": "Бонусы появились!",
+  "game.bonuses.disappear": "Бонусы исчезли!",
+
+  "bonus.remove.fail": "Перевод 'bonus.remove.fail' отсутствует",
+  "bonus.pickup": "Перевод 'bonus.pickup' отсутствует",
+  "bonus.use.caught": "Перевод 'bonus.use.caught' отсутствует",
+
+  "bonus.use.fail": "Сейчас нельзя использовать этот бонус!",
+  "bonus.aura": "Демоническая аура",
+  "bonus.choice": "Возьми один",
+  "bonus.cloak": "Плащ-невидимка",
+  "bonus.disorientation": "Дезориентация",
+  "bonus.energy": "Энергетик",
+  "bonus.epidemic": "Эпидемия",
+  "bonus.eye": "Третий глаз",
+  "bonus.heal": "Лечение",
+  "bonus.launcher": "Ракетница",
+  "bonus.mine": "Мина",
+  "bonus.stick": "Палочка-выручалочка",
+  "bonus.panic": "Панический страх",
+  "bonus.superglue": "Суперклей",
+  "bonus.track": "След",
+  "bonus.xray": "Рентген",
+  "bonus.disorientation.used": "Происходит что-то странное!",
+  "bonus.epidemic.used": "Ты был отравлен!",
+  "bonus.eye.used": "Ты чувствуешь чьё-то присутствие...",
+  "bonus.launcher.used": "Салют!",
+  "bonus.mine.use.in_fly": "Нельзя установить мину в воздухе!",
+  "bonus.mine.use.bad_place": "Плохое место для установки!",
+  "bonus.mine.use.warning": "ВНИМАНИЕ: мина активируется через 5 секунд, отойдите на безопасное расстояние!",
+  "bonus.mine.detonate.soft": "Мина взорвалась!",
+  "bonus.mine.detonate.hard": "Ты подорвался на мине!",
+  "bonus.mine.deactivate": "Мина успешно деактивирована!",
+  "bonus.superglue.used": "Ты был приклеен к полу!",
+  "bonus.track.used": "Кто-то может проследить за тобой...",
+  "bonus.xray.used": "Ты был подсвечен!",
+
+  "bonus.choice.menu": "Перевод 'bonus.choice.menu' отсутствует",
+  "arrow.abstract.message": "Перевод 'arrow.abstract.message' отсутствует",
+
+  "block.door.locked": "Дверь заперта!",
+  "block.trapdoor.locked": "Люк заперт!",
+
+  "player.revives.no_more": "Перевод 'player.revives.no_more' отсутствует",
+  "player.revives.last": "Перевод 'player.revives.last' отсутствует",
+  "game.hunt.coming": "Перевод 'game.hunt.coming' отсутствует",
+  "game.hunt.started": "Перевод 'game.hunt.started' отсутствует",
+
+  "game.hunter.release_in": "Освобождение через %s",
+  "hunter.released": "Ты освобождён!",
+
+  "player.survivor.died": "Перевод 'player.survivor.died' отсутствует",
+  "player.hunter.died": "Перевод 'player.hunter.died' отсутствует",
+
+  "item.hunter.boots": "Кровавые ботинки",
+  "item.hunter.leggings": "Кровавые штаны",
+  "item.hunter.chestplate": "Кровавый нагрудник",
+  "item.hunter.helmet": "Кровавый шлем",
+  "item.hunter.axe": "Топор мясника",
+  "item.hunter.bow": "Охотничий лук",
+  "item.hunter.steak": "Кровавый стейк",
+  "item.survivor.boots": "Потрёпанные ботинки",
+  "item.survivor.leggings": "Потрёпанные штаны",
+  "item.survivor.chestplate": "Потрёпанная куртка",
+  "item.survivor.helmet": "Потрёпанная шапка",
+  "item.pebbles": "Галька",
+  "item.dead_rose": "Засохшая роза",
+  "item.slime": "Слизь",
+  "huntmania.game.hunters.win.title": "Охотники победили!",
+  "huntmania.game.hunters.win.subtitle": "",
+  "huntmania.game.hunters.win.message": "Охотники победили!",
+  "huntmania.game.hunters.lose.title": "Охотники проиграли!",
+  "huntmania.game.hunters.lose.subtitle": "",
+  "huntmania.game.survivors.win.title": "Выжившие победили!",
+  "huntmania.game.survivors.win.subtitle": "",
+  "huntmania.game.survivors.win.message": "Выжившие победили!",
+  "huntmania.game.survivors.lose.title": "Выжившие проиграли!",
+  "huntmania.game.survivors.lose.subtitle": "",
 
 
+  "_first_comment": "Старые переводы",
 
   "prefix.spectator": " ",
   "prefix.hunter": " ",
   "prefix.survivor": " ",
-  "prefix.found": " ",
   "prefix.spawn": " ",
+  "prefix.caught": " ",
+  "prefix.prisoner": "Перевод 'prefix.prisoner' отсутствует",
 
   "chat.global": "",
   "chat.local": "",
@@ -41,7 +148,6 @@
   "item.bonus.mine.warn": "ВНИМАНИЕ: мина активируется через 5 секунд, отойдите на безопасное расстояние!",
   "item.bonus.mine.in_fly": "Нельзя установить мину в воздухе!",
   "item.bonus.mine.bad_place": "Плохое место для установки!",
-  "bonus.mine.deactivate": "Мина успешно деактивирована!",
   "bonus.mine.detonate_soft": "Мина взорвалась!",
   "bonus.mine.detonate_hard": "Ты подорвался на мине!",
 
@@ -73,16 +179,7 @@
 
   "bonus.appear": "Бонусы появились!",
   "bonus.disappear": "Бонусы исчезли!",
-  "bonus.xray.used": "Ты был подсвечен!",
-  "bonus.epidemic.used": "Ты был отравлен!",
-  "bonus.eye.used": "Ты чувствуешь чьё-то присутствие...",
-  "bonus.disorientation.used": "Происходит что-то странное!",
   "bonus.panic.used": "Ты чувствуешь смертельный ужас!",
-  "bonus.track.used": "Кто-то может проследить за тобой...",
-  "bonus.superglue.used": "Ты был приклеен к полу!",
-  "bonus.choice": "Возьми один",
-  "bonus.launcher.used": "Салют!",
-
 
   "subtitles.planks.pressed": "Доски прогнулись",
   "subtitles.planks.pressed_out": "Доски выгнулись",
@@ -93,9 +190,6 @@
   "subtitle.bonus.mine.cancel": "Отмена установки мины",
   "subtitle.bonus.mine.deactivate": "Мина деактивирована",
   "subtitle.bonus.mine.detonate": "Мина сдетонировала",
-
-  "locked.door": "Дверь заперта!",
-  "locked.trapdoor": "Люк заперт!",
 
   "game.first_hunter_coming": "Охотник скоро будет освобождён!",
   "game.first_hunters_coming": "Охотники скоро будут освобождены!",
@@ -110,21 +204,9 @@
   "hunter.start": " вышел на свободу!",
   "hunter.start.title": "Убей их всех!",
   "hunter.start.subtitle": "",
-  "hunter.release_in": "Освобождение через ",
-  "hunter.released": "Ты освобождён!",
-  "hunter.lose.title": "Охотники проиграли!",
-  "hunter.lose.subtitle": "",
-  "hunter.win": "Охотники победили!",
-  "hunter.win.title": "Охотники победили!",
-  "hunter.win.subtitle": "",
 
   "survivor.start.title": "Молись о спасении!",
   "survivor.start.subtitle": "",
-  "survivor.lose.title": "Выжившие проиграли!",
-  "survivor.lose.subtitle": "",
-  "survivor.win.title": "Выжившие победили!",
-  "survivor.win.subtitle": "",
-  "survivor.win": "Выжившие победили!",
   "survivor.killed": " был убит!",
   "survivor.end_life": " расстался со своей жизнью!",
   "survivor.lives.no_more": "Нет дополнительных жизней",
@@ -149,7 +231,7 @@
   "container.wand.message": "Ты получил жезл контейнеров!",
   "container.show.on": "Контейнеры были показаны!",
   "container.show.off": "Контейнеры были скрыты!",
-  "container.empty": "Пустой контейнер",
+  "container.open": "Пустой контейнер",
   "container.closed": "Закрытый контейнер",
   "container.simple": "Обычный контейнер",
   "container.tricky": "Спрятанный контейнер",
@@ -160,19 +242,6 @@
   "container.register_all": "Зарегистрировано новых контейнеров: ",
   "container.filled": "Заполнено контейнеров: ",
   "container.refilled": "Некоторые контейнеры были перезаполнены!",
-  
-  "item.hunter.axe": "Топор мясника",
-  "item.hunter.bow": "Охотничий лук",
-  "item.hunter.steak": "Кровавый стейк",
-  "item.hunter.helmet": "Кровавый шлем",
-  "item.hunter.chestplate": "Кровавый нагрудник",
-  "item.hunter.leggings": "Кровавые штаны",
-  "item.hunter.boots": "Кровавые ботинки",
-  
-  "item.survivor.helmet": "Потрёпанная шапка",
-  "item.survivor.chestplate": "Потрёпанная куртка",
-  "item.survivor.leggings": "Потрёпанные штаны",
-  "item.survivor.boots": "Потрёпанные ботинки",
   
   "prohibited.bed": "Вы не можете пользоваться кроватью",
   
@@ -228,7 +297,7 @@
 
   
 
-  "_comment": "Старые переводы",
+  "_second_comment": "Очень старые переводы",
 
   "item.firework": "Фейерверк",
   "item.battery": "Батарейка",
