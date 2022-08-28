@@ -9,7 +9,8 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/FieryCup/Pryatki-Resource-pack/total) ![Contributors](https://img.shields.io/github/contributors/FieryCup/Pryatki-Resource-pack?color=dark-green)
+![Downloads](https://img.shields.io/github/downloads/FieryCup/HuntMania-Resource-pack/total?color=gold&style=for-the-badge) ![Contributors](https://img.shields.io/github/contributors/FieryCup/HuntMania-Resource-pack?color=gold&style=for-the-badge) ![Release version (latest by date)](https://img.shields.io/github/v/release/FieryCup/HuntMania-Resource-pack?color=gold&style=for-the-badge)
+
 
 ## Authors
 
