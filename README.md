@@ -9,7 +9,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/FieryCup/Pryatki-Resource-pack/total) ![Contributors](https://img.shields.io/github/contributors/FieryCup/Pryatki-Resource-pack?color=dark-green) ![Issues](https://img.shields.io/github/issues/FieryCup/Pryatki-Resource-pack)
+![Downloads](https://img.shields.io/github/downloads/FieryCup/Pryatki-Resource-pack/total) ![Contributors](https://img.shields.io/github/contributors/FieryCup/Pryatki-Resource-pack?color=dark-green)
 
 ## Authors
 
