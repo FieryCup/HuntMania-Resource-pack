@@ -1,7 +1,4 @@
 {
-  "_TODO_28.08_1": "Заменить мелодию пластинки 11 на звук скрип/скрежет сломанной пластинки длительностью 10 секунд",
-  "_TODO_28.08_2": "Добавить иконку для prefix.prisoner",
-
   "language.name": "Русский",
   "language.region": "Россия",
   "language.code": "ru_ru",
@@ -107,11 +104,8 @@
   "chat.global": "",
   "chat.local": "",
 
-  
-
   "quote.left": "«",
   "quote.right": "»",
-  
 
   "spectate.start": "Ты стал наблюдателем",
   "spectate.player": "Ты наблюдаешь за ",
@@ -278,9 +272,6 @@
   
   "item.magic.totem": "Кукла жизни",
   "item.magic.apple": "Магическое яблоко",
-
-
-
   
 
   "_second_comment": "Очень старые переводы",

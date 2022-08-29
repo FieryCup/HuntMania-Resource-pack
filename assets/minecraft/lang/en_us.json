@@ -104,11 +104,8 @@
   "chat.global": "",
   "chat.local": "",
 
-
-
   "quote.left": "\"",
   "quote.right": "\"",
-  
 
   "spectate.start": "You have become spectator",
   "spectate.player": "You spectate at ",
@@ -163,7 +160,6 @@
   "bonus.appear": "Bonuses appeared!",
   "bonus.disappear": "Bonuses disappeared!",
   "bonus.panic.used": "You feel mortal terror!",
-
 
   "subtitle.planks.pressed": "Pressed planks",
   "subtitle.planks.pressed_out": "Pressed out planks",
@@ -276,9 +272,6 @@
 
   "item.magic.totem": "Doll of life",
   "item.magic.apple": "Magic apple",
-
-  
-  
 
 
   "_second_comment": "Very old translations",
