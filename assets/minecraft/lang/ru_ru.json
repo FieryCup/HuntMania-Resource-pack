@@ -58,7 +58,7 @@
   "bonus.track.used": "Кто-то может проследить за тобой...",
   "bonus.xray.used": "Ты был подсвечен!",
   "bonus.choice.menu": "Меню выбора",
-  "arrow.abstract.message": "Эта стрела пока не доделана!",
+  "arrow.unfinished.message": "Эта стрела пока не доделана!",
   "block.door.locked": "Дверь заперта!",
   "block.trapdoor.locked": "Люк заперт!",
   "player.revives.no_more": "У вас больше нет дополнительных спасений!",

@@ -55,7 +55,7 @@
   "bonus.track.used": "Somebody can follow you...",
   "bonus.xray.used": "You are glowing!",
   "bonus.choice.menu": "Choice menu",
-  "arrow.abstract.message": "This arrow is unfinished yet!",
+  "arrow.unfinished.message": "This arrow is unfinished yet!",
   "block.door.locked": "Door locked!",
   "block.trapdoor.locked": "Trapdoor locked!",
   "player.revives.no_more": "You have no more extra revives",
