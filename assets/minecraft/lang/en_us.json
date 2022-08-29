@@ -4,35 +4,27 @@
   "language.code": "en_us",
 
   "game.containers.refilled": "Some containers were refilled!",
-
-  "lootable.register.all": "Translation 'lootable.register.all' missing",
-  "lootable.register.world": "Translation 'lootable.register.world' missing",
-
+  "lootable.register.all": "All possible containers (%s) have been registered in all loaded chuncks",
+  "lootable.register.world": "All possible containers (%1) have been registered in all loaded chuncks in a world %2",
   "lootable.remove_redundant": "Removed redundant containers: %s",
   "lootable.show": "Containers was shown!",
   "lootable.hide": "Containers was hidden!",
   "lootable.fill": "Filled containers: %s",
   "lootable.empty": "Empty container",
-
-  "lootable.undefined.name": "Translation 'lootable.undefined.name' missing",
-  "lootable.undefined.description": "Translation 'lootable.undefined.description' missing",
-  "lootable.container.locked": "Translation 'lootable.container.locked' missing",
-  "lootable.container.spectator": "Translation 'lootable.container.spectator' missing",
-
+  "lootable.undefined.name": "Undefined",
+  "lootable.undefined.description": "",
+  "lootable.container.locked": "Locked",
+  "lootable.container.spectator": "Spectators cannot see containers' content",
   "place.show": "Places was shown!",
   "place.hide": "Places was hidden!",
   "game.spectator.spectate.entity": "You spectate at %s",
   "game.spectator.spectate.free": "You spectate in a free mode",
-
-  "game.prohibited.use": "Translation 'game.prohibited.use' missing",
-
+  "game.prohibited.use": "Use of this is prohibited",
   "game.bonuses.appear": "Bonuses appeared!",
   "game.bonuses.disappear": "Bonuses disappeared!",
-
-  "bonus.remove.fail": "Translation 'bonus.remove.fail' missing",
-  "bonus.pickup": "Translation 'bonus.pickup' missing",
-  "bonus.use.caught": "Translation 'bonus.use.caught' missing",
-
+  "bonus.remove.fail": "No bonuses fo removal",
+  "bonus.pickup": "Bonus picked up!",
+  "bonus.use.caught": "You cannot use bonuses!",
   "bonus.use.fail": "You couldn't use this bonus now!",
   "bonus.aura": "Demonic aura",
   "bonus.choice": "Choice",
@@ -62,24 +54,18 @@
   "bonus.superglue.used": "You have been glued to the floor!",
   "bonus.track.used": "Somebody can follow you...",
   "bonus.xray.used": "You are glowing!",
-
-  "bonus.choice.menu": "Translation 'bonus.choice.menu' missing",
-  "arrow.abstract.message": "Translation 'arrow.abstract.message' missing",
-
+  "bonus.choice.menu": "Choice menu",
+  "arrow.abstract.message": "This arrow is unfinished yet!",
   "block.door.locked": "Door locked!",
   "block.trapdoor.locked": "Trapdoor locked!",
-
-  "player.revives.no_more": "Translation 'player.revives.no_more' missing",
-  "player.revives.last": "Translation 'player.revives.last' missing",
-  "game.hunt.coming": "Translation 'game.hunt.coming' missing",
-  "game.hunt.started": "Translation 'game.hunt.started' missing",
-
+  "player.revives.no_more": "You have no more extra revives",
+  "player.revives.last": "Revives last: %s",
+  "game.hunt.coming": "Hunt is coming",
+  "game.hunt.started": "Hunt started",
   "game.hunter.release_in": "Release in %s",
   "hunter.released": "You have been released!",
-
-  "player.survivor.died": "Translation 'player.survivor.died' missing",
-  "player.hunter.died": "Translation 'player.hunter.died' missing",
-
+  "player.survivor.died": "%s died fighting for the life",
+  "player.hunter.died": "%s have been teared to pieces",
   "item.hunter.boots": "Bloody boots",
   "item.hunter.leggings": "Bloody leggings",
   "item.hunter.chestplate": "Bloody chestplate",
@@ -113,7 +99,7 @@
   "prefix.survivor": " ",
   "prefix.spawn": " ",
   "prefix.caught": " ",
-  "prefix.prisoner": "Translation 'prefix.prisoner' missing",
+  "prefix.prisoner": "#prefix.prisoner",
 
   "chat.global": "",
   "chat.local": "",

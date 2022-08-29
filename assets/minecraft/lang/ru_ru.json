@@ -1,41 +1,33 @@
 {
-  "_TODO1": "Заменить мелодию пластинки 11 на звук скрип/скрежет сломанной пластинки длительностью 10 секунд",
-  "_TODO2": "Добавить иконку для prefix.prisoner",
+  "_TODO_28.08_1": "Заменить мелодию пластинки 11 на звук скрип/скрежет сломанной пластинки длительностью 10 секунд",
+  "_TODO_28.08_2": "Добавить иконку для prefix.prisoner",
 
   "language.name": "Русский",
   "language.region": "Россия",
   "language.code": "ru_ru",
   
   "game.containers.refilled": "Некоторые контейнеры были перезаполнены!",
-
-  "lootable.register.all": "Перевод 'lootable.register.all' отсутствует",
-  "lootable.register.world": "Перевод 'lootable.register.world' отсутствует",
-
+  "lootable.register.all": "Зарегистрированы все возможные контейнеры (%s) во всех прогруженых чанках",
+  "lootable.register.world": "Зарегистрированы все возможные контейнеры (%1) во всех прогруженых чанках в мире %2",
   "lootable.remove_redundant": "Удалено лишних контейнеров: %s",
   "lootable.show": "Контейнеры были показаны!",
   "lootable.hide": "Контейнеры были скрыты!",
   "lootable.fill": "Заполнено контейнеров: %s",
   "lootable.empty": "Пустой контейнер",
-
-  "lootable.undefined.name": "Перевод 'lootable.undefined.name' отсутствует",
-  "lootable.undefined.description": "Перевод 'lootable.undefined.description' отсутствует",
-  "lootable.container.locked": "Перевод 'lootable.container.locked' отсутствует",
-  "lootable.container.spectator": "Перевод 'lootable.container.spectator' отсутствует",
-
+  "lootable.undefined.name":  "Неопределенный",
+  "lootable.undefined.description": "",
+  "lootable.container.locked": "Запертый",
+  "lootable.container.spectator": "Наблюдатели не могут заглядывать в контейнеры",
   "place.show": "Места были показаны!",
   "place.hide": "Места были скрыты!",
   "game.spectator.spectate.entity": "Ты наблюдаешь за %s",
   "game.spectator.spectate.free": "Ты перешёл в режим свободного наблюдения",
-
-  "game.prohibited.use": "Перевод 'game.prohibited.use' отсутствует",
-
+  "game.prohibited.use": "Использование запрещено",
   "game.bonuses.appear": "Бонусы появились!",
   "game.bonuses.disappear": "Бонусы исчезли!",
-
-  "bonus.remove.fail": "Перевод 'bonus.remove.fail' отсутствует",
-  "bonus.pickup": "Перевод 'bonus.pickup' отсутствует",
-  "bonus.use.caught": "Перевод 'bonus.use.caught' отсутствует",
-
+  "bonus.remove.fail": "Нет бонусов для удаления",
+  "bonus.pickup": "Бонус подобран!",
+  "bonus.use.caught": "Вы не можете использовать бонусы!",
   "bonus.use.fail": "Сейчас нельзя использовать этот бонус!",
   "bonus.aura": "Демоническая аура",
   "bonus.choice": "Возьми один",
@@ -65,24 +57,18 @@
   "bonus.superglue.used": "Ты был приклеен к полу!",
   "bonus.track.used": "Кто-то может проследить за тобой...",
   "bonus.xray.used": "Ты был подсвечен!",
-
-  "bonus.choice.menu": "Перевод 'bonus.choice.menu' отсутствует",
-  "arrow.abstract.message": "Перевод 'arrow.abstract.message' отсутствует",
-
+  "bonus.choice.menu": "Меню выбора",
+  "arrow.abstract.message": "Эта стрела пока не доделана!",
   "block.door.locked": "Дверь заперта!",
   "block.trapdoor.locked": "Люк заперт!",
-
-  "player.revives.no_more": "Перевод 'player.revives.no_more' отсутствует",
-  "player.revives.last": "Перевод 'player.revives.last' отсутствует",
-  "game.hunt.coming": "Перевод 'game.hunt.coming' отсутствует",
-  "game.hunt.started": "Перевод 'game.hunt.started' отсутствует",
-
+  "player.revives.no_more": "У вас больше нет дополнительных спасений!",
+  "player.revives.last": "Спасений осталось: %s",
+  "game.hunt.coming": "Охота скоро начнётся!",
+  "game.hunt.started": "Охота началась!",
   "game.hunter.release_in": "Освобождение через %s",
   "hunter.released": "Ты освобождён!",
-
-  "player.survivor.died": "Перевод 'player.survivor.died' отсутствует",
-  "player.hunter.died": "Перевод 'player.hunter.died' отсутствует",
-
+  "player.survivor.died": "%s погиб, борясь за свою жизнь",
+  "player.hunter.died": "%s был растерзан",
   "item.hunter.boots": "Кровавые ботинки",
   "item.hunter.leggings": "Кровавые штаны",
   "item.hunter.chestplate": "Кровавый нагрудник",
@@ -116,7 +102,7 @@
   "prefix.survivor": " ",
   "prefix.spawn": " ",
   "prefix.caught": " ",
-  "prefix.prisoner": "Перевод 'prefix.prisoner' отсутствует",
+  "prefix.prisoner": "#prefix.prisoner",
 
   "chat.global": "",
   "chat.local": "",
