@@ -1,8 +1,0 @@
-{
-	"credit": "By FieryCup",
-	"parent": "minecraft:item/handheld",
-	"textures": {
-		"0": "item/gui/exclamation_mark_yellow",
-		"particle": "item/gui/exclamation_mark_yellow"
-	}
-}

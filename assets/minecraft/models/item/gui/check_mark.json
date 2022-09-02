@@ -1,8 +1,0 @@
-{
-	"credit": "By FieryCup",
-	"parent": "minecraft:item/handheld",
-	"textures": {
-		"0": "item/gui/check_mark",
-		"particle": "item/gui/check_mark"
-	}
-}
