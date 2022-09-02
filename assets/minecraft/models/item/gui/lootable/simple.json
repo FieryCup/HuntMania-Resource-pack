@@ -2,6 +2,6 @@
 	"credit": "By FieryCup",
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/gui/exclamation_mark_yellow"
+    "layer0": "minecraft:item/gui/lootable/simple"
   }
 }

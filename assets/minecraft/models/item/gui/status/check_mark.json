@@ -2,6 +2,6 @@
 	"credit": "By FieryCup",
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/gui/letter_x"
+    "layer0": "minecraft:item/gui/status/check_mark"
   }
 }
