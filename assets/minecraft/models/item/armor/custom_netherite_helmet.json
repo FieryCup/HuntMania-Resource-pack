@@ -1,4 +1,5 @@
 {
+	"credit": "By FieryCup",
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/armor/netherite_helmet"

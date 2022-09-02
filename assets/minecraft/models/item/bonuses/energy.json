@@ -1,5 +1,5 @@
 {
-	"credit": "By Limonchik_",
+	"credit": "By FieryCup",
 	"parent": "minecraft:item/generated",
 	"textures": {
 		"layer0": "item/bonuses/energy"

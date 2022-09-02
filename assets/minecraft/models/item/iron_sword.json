@@ -1,4 +1,5 @@
 {
+	"credit": "By FieryCup",
 	"parent": "item/handheld",
 	"textures": {
 		"layer0": "item/iron_sword"
