@@ -5,49 +5,56 @@
             "file": "minecraft:font/prefix/spectator.png",
             "ascent": 7,
             "height": 8,
-            "chars": [""]
+            "chars": ["\u0001"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:font/prefix/hunter.png",
             "ascent": 7,
             "height": 8,
-            "chars": [""]
+            "chars": ["\u0002"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:font/prefix/survivor.png",
             "ascent": 7,
             "height": 8,
-            "chars": [""]
+            "chars": ["\u0003"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/prefix/found.png",
+            "file": "minecraft:font/prefix/caught.png",
             "ascent": 7,
             "height": 8,
-            "chars": [""]
+            "chars": ["\u0004"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:font/prefix/spawn.png",
             "ascent": 7,
             "height": 8,
-            "chars": [""]
+            "chars": ["\u0005"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:font/chat/global.png",
             "ascent": 7,
             "height": 8,
-            "chars": [""]
+            "chars": ["\u0006"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:font/chat/local.png",
             "ascent": 7,
             "height": 8,
-            "chars": [""]
+            "chars": ["\u0007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/prefix/prisoner.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\u0008"]
         }
     ]
 }

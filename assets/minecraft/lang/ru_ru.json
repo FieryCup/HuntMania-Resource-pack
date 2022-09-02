@@ -94,15 +94,15 @@
 
   "_first_comment": "Старые переводы",
 
-  "prefix.spectator": " ",
-  "prefix.hunter": " ",
-  "prefix.survivor": " ",
-  "prefix.spawn": " ",
-  "prefix.caught": " ",
-  "prefix.prisoner": "#prefix.prisoner",
+  "prefix.spectator": "\u0001 ",
+  "prefix.hunter": "\u0002 ",
+  "prefix.survivor": "\u0003 ",
+  "prefix.spawn": "\u0005 ",
+  "prefix.caught": "\u0004 ",
+  "prefix.prisoner": "\u0008 ",
 
-  "chat.global": "",
-  "chat.local": "",
+  "chat.global": "\u0006",
+  "chat.local": "\u0007",
 
   "quote.left": "«",
   "quote.right": "»",
