@@ -4,6 +4,13 @@
 		"layer0": "item/chest_minecart"
 	},
 	"overrides": [
+		{"predicate": {"custom_model_data":101}, "model": "item/gui/letter_x"},
+		{"predicate": {"custom_model_data":102}, "model": "item/gui/letter_y"},
+		{"predicate": {"custom_model_data":103}, "model": "item/gui/letter_z"},
+		{"predicate": {"custom_model_data":104}, "model": "item/gui/exclamation_mark_red"},
+		{"predicate": {"custom_model_data":105}, "model": "item/gui/exclamation_mark_yellow"},
+		{"predicate": {"custom_model_data":106}, "model": "item/gui/check_mark"},
+
 		{"predicate": {"custom_model_data":201}, "model": "item/diving_helmet"},
 		{"predicate": {"custom_model_data":202}, "model": "item/night_vision_helmet"}
 	]
