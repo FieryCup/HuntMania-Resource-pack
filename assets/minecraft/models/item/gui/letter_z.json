@@ -1,0 +1,8 @@
+{
+	"credit": "By FieryCup",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"0": "item/gui/letter_z",
+		"particle": "item/gui/letter_z"
+	}
+}
