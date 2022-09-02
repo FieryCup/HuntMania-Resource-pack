@@ -4,7 +4,7 @@
 		"layer0": "item/chest_minecart"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/diving_helmet"},
-		{"predicate": {"custom_model_data":2}, "model": "item/night_vision_helmet"}
+		{"predicate": {"custom_model_data":201}, "model": "item/diving_helmet"},
+		{"predicate": {"custom_model_data":202}, "model": "item/night_vision_helmet"}
 	]
 }
