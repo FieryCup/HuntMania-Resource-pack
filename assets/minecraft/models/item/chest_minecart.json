@@ -5,30 +5,31 @@
 		"layer0": "item/chest_minecart"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":1001}, "model": "item/gui/axes/x_axis"},
-		{"predicate": {"custom_model_data":1002}, "model": "item/gui/axes/y_axis"},
-		{"predicate": {"custom_model_data":1003}, "model": "item/gui/axes/z_axis"},
-		
-		{"predicate": {"custom_model_data":1101}, "model": "item/gui/status/exclamation_mark_red"},
-		{"predicate": {"custom_model_data":1102}, "model": "item/gui/status/exclamation_mark_yellow"},
-		{"predicate": {"custom_model_data":1103}, "model": "item/gui/status/check_mark"},
+		{"predicate": {"custom_model_data":1000}, "model": "item/gui/axes/x_axis"},
+		{"predicate": {"custom_model_data":1001}, "model": "item/gui/axes/y_axis"},
+		{"predicate": {"custom_model_data":1002}, "model": "item/gui/axes/z_axis"},
+        
+        {"predicate": {"custom_model_data":1100}, "model": "item/gui/status/exclamation_mark_red"},
+        {"predicate": {"custom_model_data":1101}, "model": "item/gui/status/exclamation_mark_yellow"},
+        {"predicate": {"custom_model_data":1102}, "model": "item/gui/status/check_mark"},
 
-        {"predicate": {"custom_model_data":1201}, "model": "item/gui/lootable/undefined"},
+        {"predicate": {"custom_model_data":1200}, "model": "item/gui/lootable/undefined"},
+        {"predicate": {"custom_model_data":1201}, "model": "item/gui/lootable/opened"},
         {"predicate": {"custom_model_data":1202}, "model": "item/gui/lootable/closed"},
         {"predicate": {"custom_model_data":1203}, "model": "item/gui/lootable/simple"},
         {"predicate": {"custom_model_data":1204}, "model": "item/gui/lootable/tricky"},
         {"predicate": {"custom_model_data":1205}, "model": "item/gui/lootable/hunter"},
         {"predicate": {"custom_model_data":1206}, "model": "item/gui/lootable/survivor"},
         
-        {"predicate": {"custom_model_data":1301}, "model": "item/gui/place/undefined"},
-        {"predicate": {"custom_model_data":1302}, "model": "item/gui/place/hunter"},
-        {"predicate": {"custom_model_data":1303}, "model": "item/gui/place/survivor"},
-        {"predicate": {"custom_model_data":1304}, "model": "item/gui/place/prisoner"},
-        {"predicate": {"custom_model_data":1305}, "model": "item/gui/place/caught"},
-        {"predicate": {"custom_model_data":1306}, "model": "item/gui/place/bonus"},
-        {"predicate": {"custom_model_data":1307}, "model": "item/gui/place/mob"},
+        {"predicate": {"custom_model_data":1300}, "model": "item/gui/place/undefined"},
+        {"predicate": {"custom_model_data":1301}, "model": "item/gui/place/hunter"},
+        {"predicate": {"custom_model_data":1302}, "model": "item/gui/place/survivor"},
+        {"predicate": {"custom_model_data":1303}, "model": "item/gui/place/prisoner"},
+        {"predicate": {"custom_model_data":1304}, "model": "item/gui/place/caught"},
+        {"predicate": {"custom_model_data":1305}, "model": "item/gui/place/bonus"},
+        {"predicate": {"custom_model_data":1306}, "model": "item/gui/place/mob"},
 
-		{"predicate": {"custom_model_data":2001}, "model": "item/diving_helmet"},
-		{"predicate": {"custom_model_data":2002}, "model": "item/night_vision_helmet"}
+        {"predicate": {"custom_model_data":2000}, "model": "item/diving_helmet"},
+        {"predicate": {"custom_model_data":2001}, "model": "item/night_vision_helmet"}
 	]
 }
